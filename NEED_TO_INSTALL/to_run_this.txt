@@ -1,0 +1,30 @@
+1. Install backend dependencies
+CWD: diagnosis_app/flask-backend
+Command: pip install -r requirements.txt
+
+
+2. Generate datasets (optional but recommended for better accuracy)
+CWD: diagnosis_app/flask-backend
+Command: python generate_datasets.py
+
+
+3. Train models
+CWD: diagnosis_app/flask-backend
+Command: python train_model.py
+
+
+4. Start Flask server
+CWD: diagnosis_app/flask-backend
+Command: python app.py
+
+
+5. Configure frontend environment
+Ensure diagnosis_app/.env.local
+ contains:ML_API_URL=http://127.0.0.1:5000
+
+
+6. Install frontend dependencies and run Next.js
+CWD: diagnosis_app
+Commands:
+npm install
+npm run dev

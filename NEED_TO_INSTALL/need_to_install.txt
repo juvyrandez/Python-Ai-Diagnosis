@@ -1,0 +1,110 @@
+Diagnosis App — Offline Setup Guide (Flask + Next.js)
+
+1) Prerequisites
+- Python 3.10 or newer
+- Node.js 18 or newer (with npm)
+- Windows PowerShell (or CMD)
+
+2) Backend (Flask) — Install and Train (Offline Ready)
+Path: diagnosis_app\flask-backend\
+
+2.1 Create and activate a virtual environment (recommended)
+  python -m venv .venv
+  .venv\Scripts\activate
+
+2.2 Install Python packages from requirements.txt
+  pip install --no-cache-dir -r requirements.txt
+
+Packages included:
+- Flask, flask-cors, pandas, numpy, scikit-learn, scipy, joblib
+
+2.3 (Optional) Generate synthetic datasets for better accuracy
+  python generate_datasets.py
+This writes:
+- complaints_expanded.csv
+- animal_bites.csv
+
+Note: If you already have your own complaints.csv / animal_bites.csv, you can skip generation.
+
+2.4 Train models
+  python train_model.py
+This saves:
+- diagnosis_model.pkl (general model)
+- animal_bite_category_model.pkl (animal bite category model)
+
+2.5 Run the Flask API
+  python app.py
+The API starts at: http://127.0.0.1:5000
+
+Endpoints:
+- POST /predict
+  Body JSON fields (send what you have, others default):
+    complaint: string (chief complaint)
+    age: number (years)
+    blood_pressure_systolic: number
+    blood_pressure_diastolic: number
+    temperature: number (Fahrenheit) OR temperature_c: number (Celsius)
+    weight_kg: number
+    heart_rate_bpm: number
+    resp_rate_cpm: number
+- POST /predict-animal-bite
+  Same body fields as above; returns category, treatment and urgency.
+
+
+3) Frontend (Next.js) — Install and Run
+Path: diagnosis_app\
+
+3.1 Create .env.local with the Flask URL
+Create file diagnosis_app\.env.local with:
+  ML_API_URL=http://127.0.0.1:5000
+
+3.2 Install Node dependencies (needs internet once)
+  npm install
+
+Offline tip: If you must install offline on another PC, first run npm install on a machine with internet and copy the node_modules folder over along with package-lock.json. Alternatively use an internal npm registry/mirror.
+
+3.3 Start Next.js
+  npm run dev
+Open http://localhost:3000
+
+
+4) Data files you can edit
+- diagnosis_app\flask-backend\complaints.csv
+  Minimal seed data with complaint/diagnosis. You can add columns:
+    age, blood_pressure_systolic, blood_pressure_diastolic, temperature (F) or temperature_c, weight_kg, heart_rate_bpm, resp_rate_cpm
+  The trainer auto-detects and normalizes columns.
+
+- diagnosis_app\flask-backend\animal_bites.csv
+  If using custom data, ensure there is either a column named "category" with values like "Category 1/2/3", or a "diagnosis" string that contains "Category N" (e.g., "Animal Bite Category 2").
+
+
+5) Common errors and fixes
+- ModuleNotFoundError: Install packages in the virtual environment:
+    .venv\Scripts\activate
+    pip install -r requirements.txt
+
+- Cannot import models (pkl not found): Train the models first:
+    python train_model.py
+
+- CORS/Network errors from Next.js: Verify ML_API_URL in .env.local points to the running Flask server (default http://127.0.0.1:5000). Restart Next.js after changes.
+
+- Frontend offline install: Copy node_modules and package-lock.json from a machine that already ran npm install successfully.
+
+
+6) Quick Start (Summary)
+- Backend:
+    cd diagnosis_app\flask-backend
+    python -m venv .venv
+    .venv\Scripts\activate
+    pip install -r requirements.txt
+    python generate_datasets.py   (optional)
+    python train_model.py
+    python app.py
+
+- Frontend:
+    cd diagnosis_app
+    (create .env.local with ML_API_URL=http://127.0.0.1:5000)
+    npm install
+    npm run dev
+
+That’s it. Transfer this folder to another PC and follow the same steps. For fully offline installs, bring the Python wheels (pip cache) and a pre-copied node_modules.
