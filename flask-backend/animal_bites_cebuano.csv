@@ -1,0 +1,601 @@
+complaint,diagnosis,age,systolic_bp,diastolic_bp,temperature_c,weight_kg,heart_rate_bpm,resp_rate_cpm
+"reports dog bite superficial on hand, no bleeding 2 hours ago / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,59,115,67,37.8,59,79,12
+"came with dog bite superficial on hand, no bleeding last night / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo kagabii",Animal Bite Category 2,15,126,70,36.6,65,75,20
+"presented after dog bite superficial on hand, no bleeding this morning / nagpakita pagkahuman sa gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,56,135,79,37.5,68,74,18
+"complains of dog bite superficial on hand, no bleeding yesterday / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo kagahapon",Animal Bite Category 2,5,109,61,37.3,37,94,26
+"complains of dog bite superficial on hand, no bleeding this morning / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,37,129,67,36.7,86,66,20
+"reports dog bite superficial on hand, no bleeding 2 hours ago / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,16,113,80,37.4,95,93,17
+"complains of dog bite superficial on hand, no bleeding 2 hours ago / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,47,132,79,38.0,55,71,16
+"presented after dog bite superficial on hand, no bleeding this morning / nagpakita pagkahuman sa gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,17,112,74,37.0,63,67,14
+"complains of dog bite superficial on hand, no bleeding last night / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo kagabii",Animal Bite Category 2,78,118,78,36.5,85,79,18
+"reports dog bite superficial on hand, no bleeding 2 hours ago / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,23,120,74,36.9,102,68,14
+"presented after dog bite superficial on hand, no bleeding this morning / nagpakita pagkahuman sa gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,3,105,59,38.4,31,86,26
+"reports dog bite superficial on hand, no bleeding yesterday / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo kagahapon",Animal Bite Category 2,64,136,82,36.5,81,83,19
+"presented after dog bite superficial on hand, no bleeding last night / nagpakita pagkahuman sa gipaak sa iro nga dili lawom sa kamot, walay dugo kagabii",Animal Bite Category 2,39,106,73,36.8,103,74,20
+"came with dog bite superficial on hand, no bleeding last night / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo kagabii",Animal Bite Category 2,67,117,78,37.6,97,62,16
+"complains of dog bite superficial on hand, no bleeding 2 hours ago / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,7,104,61,38.0,35,93,21
+"complains of dog bite superficial on hand, no bleeding yesterday / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo kagahapon",Animal Bite Category 2,6,104,63,37.4,18,91,21
+"complains of dog bite superficial on hand, no bleeding yesterday / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo kagahapon",Animal Bite Category 2,77,132,87,37.3,95,82,14
+"came with dog bite superficial on hand, no bleeding 2 hours ago / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,9,108,66,37.7,20,97,24
+"reports dog bite superficial on hand, no bleeding 2 hours ago / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,39,123,73,36.6,97,92,13
+"presented after dog bite superficial on hand, no bleeding this morning / nagpakita pagkahuman sa gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,18,127,69,37.7,76,75,14
+"reports dog bite superficial on hand, no bleeding this morning / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,20,123,85,37.0,54,77,18
+"reports dog bite superficial on hand, no bleeding today / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo karon",Animal Bite Category 2,67,127,82,37.9,65,78,19
+"complains of dog bite superficial on hand, no bleeding this morning / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,60,150,81,37.6,70,77,13
+"presented after dog bite superficial on hand, no bleeding 2 hours ago / nagpakita pagkahuman sa gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,29,120,73,36.9,61,80,16
+"complains of dog bite superficial on hand, no bleeding this morning / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,8,91,58,36.5,44,100,27
+"came with dog bite superficial on hand, no bleeding yesterday / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo kagahapon",Animal Bite Category 2,60,110,90,38.0,53,82,15
+"reports dog bite superficial on hand, no bleeding this morning / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,37,107,85,36.5,66,83,16
+"complains of dog bite superficial on hand, no bleeding this morning / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,41,128,72,37.6,45,87,13
+"came with dog bite superficial on hand, no bleeding today / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo karon",Animal Bite Category 2,11,94,62,36.5,37,96,27
+"reports dog bite superficial on hand, no bleeding today / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo karon",Animal Bite Category 2,56,127,69,36.7,56,90,13
+"complains of dog bite superficial on hand, no bleeding today / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo karon",Animal Bite Category 2,42,116,74,37.8,62,68,18
+"complains of dog bite superficial on hand, no bleeding this morning / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,69,146,60,36.8,58,65,19
+"reports dog bite superficial on hand, no bleeding last night / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo kagabii",Animal Bite Category 2,80,138,87,37.8,53,68,13
+"complains of dog bite superficial on hand, no bleeding last night / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo kagabii",Animal Bite Category 2,51,116,78,36.8,55,80,14
+"came with dog bite superficial on hand, no bleeding yesterday / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo kagahapon",Animal Bite Category 2,78,148,83,37.7,87,73,12
+"complains of dog bite superficial on hand, no bleeding this morning / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,68,148,76,36.7,48,67,18
+"came with dog bite superficial on hand, no bleeding 2 hours ago / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,51,108,72,37.3,46,91,13
+"presented after dog bite superficial on hand, no bleeding today / nagpakita pagkahuman sa gipaak sa iro nga dili lawom sa kamot, walay dugo karon",Animal Bite Category 2,18,117,83,37.3,67,86,17
+"reports dog bite superficial on hand, no bleeding this morning / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,4,108,57,36.9,44,80,24
+"reports dog bite superficial on hand, no bleeding last night / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo kagabii",Animal Bite Category 2,66,128,80,37.0,70,87,18
+"complains of dog bite superficial on hand, no bleeding yesterday / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo kagahapon",Animal Bite Category 2,70,149,64,36.8,77,72,13
+"complains of dog bite superficial on hand, no bleeding today / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo karon",Animal Bite Category 2,70,130,72,37.5,91,59,16
+"came with dog bite superficial on hand, no bleeding yesterday / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo kagahapon",Animal Bite Category 2,33,107,78,37.5,52,67,19
+"came with dog bite superficial on hand, no bleeding yesterday / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo kagahapon",Animal Bite Category 2,17,105,69,37.2,89,60,14
+"came with dog bite superficial on hand, no bleeding last night / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo kagabii",Animal Bite Category 2,49,109,73,36.9,99,67,12
+"presented after dog bite superficial on hand, no bleeding last night / nagpakita pagkahuman sa gipaak sa iro nga dili lawom sa kamot, walay dugo kagabii",Animal Bite Category 2,10,98,57,37.5,16,95,27
+"complains of dog bite superficial on hand, no bleeding last night / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo kagabii",Animal Bite Category 2,23,116,70,38.0,59,76,13
+"complains of dog bite superficial on hand, no bleeding yesterday / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo kagahapon",Animal Bite Category 2,2,91,55,37.4,27,87,20
+"came with dog bite superficial on hand, no bleeding 2 hours ago / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,6,107,68,37.0,44,87,25
+"complains of dog bite superficial on hand, no bleeding yesterday / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo kagahapon",Animal Bite Category 2,11,108,66,37.8,16,83,28
+"came with dog bite superficial on hand, no bleeding 2 hours ago / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,68,112,90,37.8,100,80,13
+"came with dog bite superficial on hand, no bleeding last night / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo kagabii",Animal Bite Category 2,43,107,82,37.0,82,89,12
+"complains of dog bite superficial on hand, no bleeding today / nagreklamo og gipaak sa iro nga dili lawom sa kamot, walay dugo karon",Animal Bite Category 2,33,119,76,37.7,76,91,15
+"came with dog bite superficial on hand, no bleeding today / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo karon",Animal Bite Category 2,54,105,72,37.5,46,94,17
+"presented after dog bite superficial on hand, no bleeding this morning / nagpakita pagkahuman sa gipaak sa iro nga dili lawom sa kamot, walay dugo karon buntag",Animal Bite Category 2,50,132,74,37.3,75,66,15
+"presented after dog bite superficial on hand, no bleeding 2 hours ago / nagpakita pagkahuman sa gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,9,94,63,38.3,43,82,20
+"presented after dog bite superficial on hand, no bleeding today / nagpakita pagkahuman sa gipaak sa iro nga dili lawom sa kamot, walay dugo karon",Animal Bite Category 2,60,115,78,36.4,97,61,20
+"came with dog bite superficial on hand, no bleeding 2 hours ago / miabot nga adunay gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,77,146,61,37.9,60,82,22
+"reports dog bite superficial on hand, no bleeding yesterday / nag-report og gipaak sa iro nga dili lawom sa kamot, walay dugo kagahapon",Animal Bite Category 2,42,134,77,37.2,74,80,17
+"presented after dog bite superficial on hand, no bleeding 2 hours ago / nagpakita pagkahuman sa gipaak sa iro nga dili lawom sa kamot, walay dugo 2 ka oras na ang milabay",Animal Bite Category 2,19,129,83,36.5,102,66,14
+came with dog bite with bleeding on leg today / miabot nga adunay gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,54,108,82,37.2,104,82,15
+complains of dog bite with bleeding on leg today / nagreklamo og gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,13,110,74,37.9,86,62,15
+came with dog bite with bleeding on leg yesterday / miabot nga adunay gipaak sa iro nga naay dugo sa tiil kagahapon,Animal Bite Category 3,33,135,76,36.4,83,85,20
+reports dog bite with bleeding on leg yesterday / nag-report og gipaak sa iro nga naay dugo sa tiil kagahapon,Animal Bite Category 3,5,102,69,37.0,29,97,28
+came with dog bite with bleeding on leg today / miabot nga adunay gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,17,105,66,36.7,96,74,14
+presented after dog bite with bleeding on leg yesterday / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil kagahapon,Animal Bite Category 3,76,147,68,38.0,57,59,12
+complains of dog bite with bleeding on leg last night / nagreklamo og gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,13,133,75,38.1,51,67,12
+complains of dog bite with bleeding on leg 2 hours ago / nagreklamo og gipaak sa iro nga naay dugo sa tiil 2 ka oras na ang milabay,Animal Bite Category 3,57,131,77,37.0,99,91,12
+reports dog bite with bleeding on leg last night / nag-report og gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,29,134,70,37.1,64,77,16
+presented after dog bite with bleeding on leg today / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,80,125,80,36.9,80,73,19
+reports dog bite with bleeding on leg this morning / nag-report og gipaak sa iro nga naay dugo sa tiil karon buntag,Animal Bite Category 3,13,113,77,36.7,76,68,18
+came with dog bite with bleeding on leg this morning / miabot nga adunay gipaak sa iro nga naay dugo sa tiil karon buntag,Animal Bite Category 3,47,120,82,38.0,109,91,17
+reports dog bite with bleeding on leg this morning / nag-report og gipaak sa iro nga naay dugo sa tiil karon buntag,Animal Bite Category 3,36,110,65,36.4,80,80,15
+complains of dog bite with bleeding on leg 2 hours ago / nagreklamo og gipaak sa iro nga naay dugo sa tiil 2 ka oras na ang milabay,Animal Bite Category 3,69,132,84,36.4,87,69,14
+presented after dog bite with bleeding on leg 2 hours ago / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil 2 ka oras na ang milabay,Animal Bite Category 3,70,113,84,37.7,96,69,21
+came with dog bite with bleeding on leg last night / miabot nga adunay gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,24,110,72,38.0,48,80,17
+presented after dog bite with bleeding on leg today / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,74,119,78,37.2,56,67,19
+came with dog bite with bleeding on leg last night / miabot nga adunay gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,13,106,72,37.3,45,74,12
+reports dog bite with bleeding on leg today / nag-report og gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,27,130,69,38.0,86,81,14
+came with dog bite with bleeding on leg this morning / miabot nga adunay gipaak sa iro nga naay dugo sa tiil karon buntag,Animal Bite Category 3,20,123,69,37.9,54,67,20
+presented after dog bite with bleeding on leg this morning / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil karon buntag,Animal Bite Category 3,77,116,70,36.4,55,74,17
+presented after dog bite with bleeding on leg 2 hours ago / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil 2 ka oras na ang milabay,Animal Bite Category 3,42,110,82,37.6,67,82,15
+complains of dog bite with bleeding on leg last night / nagreklamo og gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,39,109,70,37.9,49,60,18
+came with dog bite with bleeding on leg today / miabot nga adunay gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,42,134,84,38.1,63,74,13
+presented after dog bite with bleeding on leg today / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,32,116,75,37.9,87,70,13
+reports dog bite with bleeding on leg today / nag-report og gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,35,111,72,36.8,58,64,17
+came with dog bite with bleeding on leg last night / miabot nga adunay gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,51,119,78,37.2,93,70,18
+came with dog bite with bleeding on leg today / miabot nga adunay gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,50,108,80,37.2,49,74,14
+complains of dog bite with bleeding on leg today / nagreklamo og gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,42,113,68,36.6,93,64,17
+complains of dog bite with bleeding on leg last night / nagreklamo og gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,72,115,70,37.0,86,85,12
+presented after dog bite with bleeding on leg last night / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,57,110,66,36.7,69,66,17
+presented after dog bite with bleeding on leg last night / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,71,126,81,36.6,48,73,16
+came with dog bite with bleeding on leg last night / miabot nga adunay gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,72,141,64,36.2,50,58,17
+reports dog bite with bleeding on leg this morning / nag-report og gipaak sa iro nga naay dugo sa tiil karon buntag,Animal Bite Category 3,63,122,63,36.5,63,56,15
+reports dog bite with bleeding on leg last night / nag-report og gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,16,114,77,38.0,78,90,19
+came with dog bite with bleeding on leg this morning / miabot nga adunay gipaak sa iro nga naay dugo sa tiil karon buntag,Animal Bite Category 3,51,110,76,36.7,50,84,17
+reports dog bite with bleeding on leg today / nag-report og gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,61,126,67,36.3,93,72,21
+presented after dog bite with bleeding on leg last night / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,46,130,82,37.4,94,86,15
+reports dog bite with bleeding on leg last night / nag-report og gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,62,146,88,36.7,70,70,19
+complains of dog bite with bleeding on leg yesterday / nagreklamo og gipaak sa iro nga naay dugo sa tiil kagahapon,Animal Bite Category 3,75,143,85,37.9,73,64,13
+complains of dog bite with bleeding on leg yesterday / nagreklamo og gipaak sa iro nga naay dugo sa tiil kagahapon,Animal Bite Category 3,29,130,71,37.1,100,68,12
+came with dog bite with bleeding on leg 2 hours ago / miabot nga adunay gipaak sa iro nga naay dugo sa tiil 2 ka oras na ang milabay,Animal Bite Category 3,78,126,70,36.9,70,59,13
+presented after dog bite with bleeding on leg today / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,68,139,89,37.3,95,55,21
+came with dog bite with bleeding on leg last night / miabot nga adunay gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,55,109,69,37.4,57,66,13
+reports dog bite with bleeding on leg yesterday / nag-report og gipaak sa iro nga naay dugo sa tiil kagahapon,Animal Bite Category 3,46,133,78,37.5,105,76,18
+complains of dog bite with bleeding on leg today / nagreklamo og gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,37,117,69,37.1,87,85,12
+came with dog bite with bleeding on leg 2 hours ago / miabot nga adunay gipaak sa iro nga naay dugo sa tiil 2 ka oras na ang milabay,Animal Bite Category 3,62,127,88,36.8,95,78,12
+came with dog bite with bleeding on leg 2 hours ago / miabot nga adunay gipaak sa iro nga naay dugo sa tiil 2 ka oras na ang milabay,Animal Bite Category 3,37,131,80,36.6,101,66,15
+presented after dog bite with bleeding on leg last night / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,55,124,85,37.1,97,65,15
+presented after dog bite with bleeding on leg yesterday / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil kagahapon,Animal Bite Category 3,49,131,66,36.4,109,92,14
+reports dog bite with bleeding on leg yesterday / nag-report og gipaak sa iro nga naay dugo sa tiil kagahapon,Animal Bite Category 3,69,146,60,37.8,57,66,15
+came with dog bite with bleeding on leg this morning / miabot nga adunay gipaak sa iro nga naay dugo sa tiil karon buntag,Animal Bite Category 3,6,104,56,37.9,23,109,25
+presented after dog bite with bleeding on leg last night / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,66,135,80,36.3,68,62,22
+reports dog bite with bleeding on leg 2 hours ago / nag-report og gipaak sa iro nga naay dugo sa tiil 2 ka oras na ang milabay,Animal Bite Category 3,59,110,80,37.0,78,95,17
+complains of dog bite with bleeding on leg yesterday / nagreklamo og gipaak sa iro nga naay dugo sa tiil kagahapon,Animal Bite Category 3,5,102,56,38.2,35,85,23
+presented after dog bite with bleeding on leg yesterday / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil kagahapon,Animal Bite Category 3,36,125,78,37.9,46,92,12
+came with dog bite with bleeding on leg this morning / miabot nga adunay gipaak sa iro nga naay dugo sa tiil karon buntag,Animal Bite Category 3,24,124,65,37.5,84,74,16
+presented after dog bite with bleeding on leg last night / nagpakita pagkahuman sa gipaak sa iro nga naay dugo sa tiil kagabii,Animal Bite Category 3,50,132,76,36.7,83,89,16
+came with dog bite with bleeding on leg today / miabot nga adunay gipaak sa iro nga naay dugo sa tiil karon,Animal Bite Category 3,15,105,81,37.5,81,83,20
+came with dog bite with bleeding on leg 2 hours ago / miabot nga adunay gipaak sa iro nga naay dugo sa tiil 2 ka oras na ang milabay,Animal Bite Category 3,63,114,70,36.8,62,72,22
+"came with cat scratch minor, superficial yesterday / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,26,109,81,37.8,96,75,12
+"presented after cat scratch minor, superficial today / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,5,110,70,38.3,27,89,24
+"presented after cat scratch minor, superficial 2 hours ago / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom 2 ka oras na ang milabay",Animal Bite Category 2,76,146,86,37.5,59,67,17
+"came with cat scratch minor, superficial today / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,66,129,87,37.8,56,65,22
+"came with cat scratch minor, superficial today / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,62,118,83,37.6,56,71,20
+"came with cat scratch minor, superficial 2 hours ago / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom 2 ka oras na ang milabay",Animal Bite Category 2,30,116,72,37.8,87,79,18
+"reports cat scratch minor, superficial this morning / nag-report og gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,76,128,74,36.3,85,62,19
+"complains of cat scratch minor, superficial yesterday / nagreklamo og gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,26,121,68,36.9,51,84,20
+"reports cat scratch minor, superficial this morning / nag-report og gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,27,115,78,36.9,68,89,14
+"complains of cat scratch minor, superficial yesterday / nagreklamo og gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,44,125,70,36.3,80,80,12
+"presented after cat scratch minor, superficial this morning / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,75,120,75,37.3,85,60,14
+"came with cat scratch minor, superficial today / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,56,135,80,36.4,70,84,12
+"complains of cat scratch minor, superficial 2 hours ago / nagreklamo og gikud-aw sa iring nga gamay ug dili lawom 2 ka oras na ang milabay",Animal Bite Category 2,43,129,81,37.6,76,72,12
+"reports cat scratch minor, superficial today / nag-report og gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,41,109,68,37.4,66,84,20
+"presented after cat scratch minor, superficial yesterday / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,40,135,74,37.4,88,89,20
+"reports cat scratch minor, superficial yesterday / nag-report og gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,45,133,80,36.6,96,82,15
+"reports cat scratch minor, superficial 2 hours ago / nag-report og gikud-aw sa iring nga gamay ug dili lawom 2 ka oras na ang milabay",Animal Bite Category 2,30,128,69,37.4,66,73,12
+"reports cat scratch minor, superficial today / nag-report og gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,6,102,63,37.7,34,104,28
+"came with cat scratch minor, superficial this morning / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,4,91,58,37.3,32,93,27
+"came with cat scratch minor, superficial last night / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom kagabii",Animal Bite Category 2,21,111,85,37.1,57,60,16
+"came with cat scratch minor, superficial today / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,79,118,73,37.5,52,61,20
+"came with cat scratch minor, superficial this morning / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,15,120,71,37.9,70,72,16
+"came with cat scratch minor, superficial yesterday / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,39,110,66,38.0,106,95,19
+"presented after cat scratch minor, superficial yesterday / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,2,90,57,38.2,36,109,21
+"presented after cat scratch minor, superficial 2 hours ago / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom 2 ka oras na ang milabay",Animal Bite Category 2,13,129,81,38.0,74,64,13
+"came with cat scratch minor, superficial 2 hours ago / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom 2 ka oras na ang milabay",Animal Bite Category 2,35,119,66,38.0,82,66,14
+"complains of cat scratch minor, superficial 2 hours ago / nagreklamo og gikud-aw sa iring nga gamay ug dili lawom 2 ka oras na ang milabay",Animal Bite Category 2,56,128,68,36.3,62,66,12
+"complains of cat scratch minor, superficial today / nagreklamo og gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,47,133,79,37.0,88,77,13
+"presented after cat scratch minor, superficial yesterday / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,53,117,79,37.6,106,77,18
+"presented after cat scratch minor, superficial yesterday / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,16,109,66,37.1,106,70,13
+"complains of cat scratch minor, superficial this morning / nagreklamo og gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,80,134,84,36.3,88,77,21
+"came with cat scratch minor, superficial today / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,64,117,88,36.3,61,81,19
+"reports cat scratch minor, superficial this morning / nag-report og gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,69,146,83,37.8,78,69,22
+"reports cat scratch minor, superficial yesterday / nag-report og gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,33,120,76,37.9,51,84,14
+"came with cat scratch minor, superficial yesterday / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,66,140,87,36.3,76,86,14
+"presented after cat scratch minor, superficial yesterday / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,44,113,66,37.3,93,92,15
+"came with cat scratch minor, superficial today / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,12,119,79,37.9,102,88,13
+"reports cat scratch minor, superficial today / nag-report og gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,65,111,63,36.3,80,80,18
+"presented after cat scratch minor, superficial 2 hours ago / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom 2 ka oras na ang milabay",Animal Bite Category 2,79,149,80,37.2,86,74,20
+"came with cat scratch minor, superficial this morning / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,48,131,66,36.9,105,74,19
+"came with cat scratch minor, superficial today / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,16,108,72,37.0,82,60,17
+"complains of cat scratch minor, superficial yesterday / nagreklamo og gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,7,95,70,36.7,34,84,26
+"came with cat scratch minor, superficial today / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,17,134,77,37.9,69,73,19
+"complains of cat scratch minor, superficial this morning / nagreklamo og gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,55,106,85,37.2,109,67,19
+"complains of cat scratch minor, superficial last night / nagreklamo og gikud-aw sa iring nga gamay ug dili lawom kagabii",Animal Bite Category 2,2,106,56,38.2,30,97,26
+"presented after cat scratch minor, superficial this morning / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,24,128,69,37.5,86,66,18
+"complains of cat scratch minor, superficial yesterday / nagreklamo og gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,79,125,68,37.9,73,80,17
+"complains of cat scratch minor, superficial yesterday / nagreklamo og gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,54,124,81,37.9,72,79,20
+"reports cat scratch minor, superficial 2 hours ago / nag-report og gikud-aw sa iring nga gamay ug dili lawom 2 ka oras na ang milabay",Animal Bite Category 2,39,126,76,37.3,86,68,14
+"came with cat scratch minor, superficial this morning / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,73,140,78,37.5,98,81,22
+"reports cat scratch minor, superficial yesterday / nag-report og gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,3,106,58,36.8,36,80,26
+"came with cat scratch minor, superficial yesterday / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,36,129,70,36.6,52,78,16
+"complains of cat scratch minor, superficial last night / nagreklamo og gikud-aw sa iring nga gamay ug dili lawom kagabii",Animal Bite Category 2,71,112,71,37.3,88,83,13
+"presented after cat scratch minor, superficial 2 hours ago / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom 2 ka oras na ang milabay",Animal Bite Category 2,51,112,81,38.1,94,78,12
+"presented after cat scratch minor, superficial yesterday / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom kagahapon",Animal Bite Category 2,72,113,60,37.3,94,71,15
+"came with cat scratch minor, superficial this morning / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,49,129,83,37.8,69,94,15
+"presented after cat scratch minor, superficial today / nagpakita pagkahuman sa gikud-aw sa iring nga gamay ug dili lawom karon",Animal Bite Category 2,24,126,67,37.7,60,71,14
+"reports cat scratch minor, superficial 2 hours ago / nag-report og gikud-aw sa iring nga gamay ug dili lawom 2 ka oras na ang milabay",Animal Bite Category 2,56,113,82,36.6,77,76,14
+"came with cat scratch minor, superficial this morning / miabot nga adunay gikud-aw sa iring nga gamay ug dili lawom karon buntag",Animal Bite Category 2,61,119,61,37.3,94,64,17
+"reports cat scratch minor, superficial last night / nag-report og gikud-aw sa iring nga gamay ug dili lawom kagabii",Animal Bite Category 2,75,145,71,37.1,56,59,17
+complains of lick by stray dog on intact skin 2 hours ago / nagreklamo og gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,22,118,82,36.5,73,94,18
+reports lick by stray dog on intact skin 2 hours ago / nag-report og gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,44,116,74,37.2,46,73,20
+presented after lick by stray dog on intact skin today / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit karon,Animal Bite Category 1,59,112,85,37.6,86,75,12
+presented after lick by stray dog on intact skin this morning / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit karon buntag,Animal Bite Category 1,51,113,82,38.0,92,78,12
+complains of lick by stray dog on intact skin last night / nagreklamo og gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,7,99,61,36.7,18,90,28
+complains of lick by stray dog on intact skin this morning / nagreklamo og gilam-an sa iro nga walay puloy sa panit karon buntag,Animal Bite Category 1,70,110,80,37.4,94,59,15
+reports lick by stray dog on intact skin this morning / nag-report og gilam-an sa iro nga walay puloy sa panit karon buntag,Animal Bite Category 1,15,111,82,37.7,64,87,13
+reports lick by stray dog on intact skin last night / nag-report og gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,44,106,67,36.6,77,64,12
+presented after lick by stray dog on intact skin 2 hours ago / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,31,134,73,37.2,96,86,18
+reports lick by stray dog on intact skin last night / nag-report og gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,4,102,58,37.8,34,97,20
+came with lick by stray dog on intact skin last night / miabot nga adunay gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,7,92,66,36.7,40,109,28
+presented after lick by stray dog on intact skin yesterday / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit kagahapon,Animal Bite Category 1,13,114,79,37.9,48,84,18
+complains of lick by stray dog on intact skin 2 hours ago / nagreklamo og gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,70,124,64,36.7,85,80,20
+reports lick by stray dog on intact skin last night / nag-report og gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,49,135,65,36.6,50,95,20
+came with lick by stray dog on intact skin yesterday / miabot nga adunay gilam-an sa iro nga walay puloy sa panit kagahapon,Animal Bite Category 1,78,135,77,36.7,92,90,13
+came with lick by stray dog on intact skin yesterday / miabot nga adunay gilam-an sa iro nga walay puloy sa panit kagahapon,Animal Bite Category 1,54,133,85,36.6,73,92,14
+came with lick by stray dog on intact skin today / miabot nga adunay gilam-an sa iro nga walay puloy sa panit karon,Animal Bite Category 1,16,110,83,37.2,54,63,20
+reports lick by stray dog on intact skin 2 hours ago / nag-report og gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,34,108,71,37.0,75,91,17
+came with lick by stray dog on intact skin last night / miabot nga adunay gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,10,96,65,37.2,36,95,27
+reports lick by stray dog on intact skin 2 hours ago / nag-report og gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,21,123,83,38.1,66,83,17
+came with lick by stray dog on intact skin this morning / miabot nga adunay gilam-an sa iro nga walay puloy sa panit karon buntag,Animal Bite Category 1,33,130,72,37.9,62,87,16
+reports lick by stray dog on intact skin 2 hours ago / nag-report og gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,61,138,71,37.2,56,74,19
+reports lick by stray dog on intact skin today / nag-report og gilam-an sa iro nga walay puloy sa panit karon,Animal Bite Category 1,19,133,82,37.7,54,72,16
+came with lick by stray dog on intact skin last night / miabot nga adunay gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,66,150,60,36.6,47,80,21
+came with lick by stray dog on intact skin yesterday / miabot nga adunay gilam-an sa iro nga walay puloy sa panit kagahapon,Animal Bite Category 1,71,140,80,36.9,94,64,17
+complains of lick by stray dog on intact skin last night / nagreklamo og gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,61,142,76,36.9,45,60,18
+presented after lick by stray dog on intact skin 2 hours ago / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,23,129,81,36.6,63,68,19
+reports lick by stray dog on intact skin yesterday / nag-report og gilam-an sa iro nga walay puloy sa panit kagahapon,Animal Bite Category 1,7,97,70,37.0,22,87,21
+came with lick by stray dog on intact skin today / miabot nga adunay gilam-an sa iro nga walay puloy sa panit karon,Animal Bite Category 1,68,133,72,37.8,47,85,19
+complains of lick by stray dog on intact skin this morning / nagreklamo og gilam-an sa iro nga walay puloy sa panit karon buntag,Animal Bite Category 1,68,150,86,37.2,81,72,16
+presented after lick by stray dog on intact skin 2 hours ago / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,50,116,83,36.8,73,64,20
+complains of lick by stray dog on intact skin yesterday / nagreklamo og gilam-an sa iro nga walay puloy sa panit kagahapon,Animal Bite Category 1,46,120,80,38.0,101,60,20
+reports lick by stray dog on intact skin yesterday / nag-report og gilam-an sa iro nga walay puloy sa panit kagahapon,Animal Bite Category 1,11,106,63,36.9,26,86,22
+complains of lick by stray dog on intact skin last night / nagreklamo og gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,55,130,75,37.6,106,67,19
+complains of lick by stray dog on intact skin last night / nagreklamo og gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,22,125,78,36.4,65,61,15
+presented after lick by stray dog on intact skin last night / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,7,108,59,37.0,20,81,22
+presented after lick by stray dog on intact skin this morning / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit karon buntag,Animal Bite Category 1,74,150,60,36.6,83,73,13
+came with lick by stray dog on intact skin yesterday / miabot nga adunay gilam-an sa iro nga walay puloy sa panit kagahapon,Animal Bite Category 1,23,112,78,37.5,110,69,14
+reports lick by stray dog on intact skin today / nag-report og gilam-an sa iro nga walay puloy sa panit karon,Animal Bite Category 1,45,134,79,37.0,61,64,15
+presented after lick by stray dog on intact skin last night / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,27,121,81,37.5,67,86,14
+presented after lick by stray dog on intact skin yesterday / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit kagahapon,Animal Bite Category 1,78,112,88,37.6,50,89,20
+presented after lick by stray dog on intact skin 2 hours ago / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,79,144,86,37.4,78,55,22
+came with lick by stray dog on intact skin last night / miabot nga adunay gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,7,106,68,38.1,27,87,27
+reports lick by stray dog on intact skin 2 hours ago / nag-report og gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,75,116,73,37.1,59,63,16
+reports lick by stray dog on intact skin last night / nag-report og gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,78,144,73,36.2,92,71,15
+came with lick by stray dog on intact skin this morning / miabot nga adunay gilam-an sa iro nga walay puloy sa panit karon buntag,Animal Bite Category 1,68,117,76,37.4,89,55,18
+came with lick by stray dog on intact skin last night / miabot nga adunay gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,48,108,69,36.8,99,87,16
+complains of lick by stray dog on intact skin 2 hours ago / nagreklamo og gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,37,126,77,37.3,106,73,18
+presented after lick by stray dog on intact skin yesterday / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit kagahapon,Animal Bite Category 1,73,145,75,37.2,94,71,16
+presented after lick by stray dog on intact skin 2 hours ago / nagpakita pagkahuman sa gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,17,128,72,36.5,110,88,14
+reports lick by stray dog on intact skin today / nag-report og gilam-an sa iro nga walay puloy sa panit karon,Animal Bite Category 1,72,149,82,36.9,85,58,14
+came with lick by stray dog on intact skin today / miabot nga adunay gilam-an sa iro nga walay puloy sa panit karon,Animal Bite Category 1,20,120,84,36.4,73,87,13
+came with lick by stray dog on intact skin last night / miabot nga adunay gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,79,112,83,37.3,78,79,18
+came with lick by stray dog on intact skin yesterday / miabot nga adunay gilam-an sa iro nga walay puloy sa panit kagahapon,Animal Bite Category 1,9,95,70,36.9,36,94,20
+complains of lick by stray dog on intact skin today / nagreklamo og gilam-an sa iro nga walay puloy sa panit karon,Animal Bite Category 1,6,109,62,37.8,26,99,22
+complains of lick by stray dog on intact skin last night / nagreklamo og gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,22,107,73,37.6,96,85,17
+came with lick by stray dog on intact skin 2 hours ago / miabot nga adunay gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,3,92,57,38.0,32,97,24
+came with lick by stray dog on intact skin yesterday / miabot nga adunay gilam-an sa iro nga walay puloy sa panit kagahapon,Animal Bite Category 1,37,112,84,38.1,45,72,19
+reports lick by stray dog on intact skin last night / nag-report og gilam-an sa iro nga walay puloy sa panit kagabii,Animal Bite Category 1,54,121,68,37.3,88,95,13
+complains of lick by stray dog on intact skin 2 hours ago / nagreklamo og gilam-an sa iro nga walay puloy sa panit 2 ka oras na ang milabay,Animal Bite Category 1,34,133,82,38.1,106,76,19
+"presented after bat exposure in room, unsure of contact yesterday / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,60,139,88,36.4,49,56,19
+"came with bat exposure in room, unsure of contact yesterday / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,31,130,75,37.3,46,86,17
+"presented after bat exposure in room, unsure of contact 2 hours ago / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo 2 ka oras na ang milabay",Animal Bite Category 3,38,107,77,37.4,67,81,13
+"presented after bat exposure in room, unsure of contact yesterday / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,47,111,83,38.1,69,77,14
+"came with bat exposure in room, unsure of contact yesterday / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,32,128,72,36.7,76,76,15
+"presented after bat exposure in room, unsure of contact 2 hours ago / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo 2 ka oras na ang milabay",Animal Bite Category 3,15,108,67,37.8,50,91,12
+"came with bat exposure in room, unsure of contact this morning / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,42,120,83,36.6,110,77,19
+"presented after bat exposure in room, unsure of contact last night / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo kagabii",Animal Bite Category 3,30,129,83,37.3,99,68,12
+"presented after bat exposure in room, unsure of contact 2 hours ago / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo 2 ka oras na ang milabay",Animal Bite Category 3,6,106,66,37.4,18,92,22
+"came with bat exposure in room, unsure of contact yesterday / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,3,90,61,37.2,34,92,21
+"came with bat exposure in room, unsure of contact yesterday / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,72,126,67,37.9,66,72,19
+"came with bat exposure in room, unsure of contact this morning / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,65,137,66,36.9,70,81,17
+"presented after bat exposure in room, unsure of contact this morning / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,25,123,69,37.7,75,74,13
+"complains of bat exposure in room, unsure of contact last night / nagreklamo og naay kabog sa kwarto, dili sigurado kon naigo kagabii",Animal Bite Category 3,27,109,69,36.6,108,90,12
+"reports bat exposure in room, unsure of contact this morning / nag-report og naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,70,130,85,36.7,99,86,16
+"reports bat exposure in room, unsure of contact this morning / nag-report og naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,14,127,70,37.8,105,63,15
+"came with bat exposure in room, unsure of contact today / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo karon",Animal Bite Category 3,44,113,76,37.4,77,83,20
+"came with bat exposure in room, unsure of contact 2 hours ago / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo 2 ka oras na ang milabay",Animal Bite Category 3,54,108,76,36.6,81,72,20
+"presented after bat exposure in room, unsure of contact yesterday / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,67,141,84,36.9,63,83,13
+"reports bat exposure in room, unsure of contact yesterday / nag-report og naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,23,125,75,37.9,54,86,18
+"came with bat exposure in room, unsure of contact this morning / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,45,112,75,37.6,95,80,16
+"reports bat exposure in room, unsure of contact yesterday / nag-report og naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,48,128,83,37.1,68,93,19
+"reports bat exposure in room, unsure of contact today / nag-report og naay kabog sa kwarto, dili sigurado kon naigo karon",Animal Bite Category 3,32,126,73,36.6,58,65,15
+"reports bat exposure in room, unsure of contact 2 hours ago / nag-report og naay kabog sa kwarto, dili sigurado kon naigo 2 ka oras na ang milabay",Animal Bite Category 3,62,145,61,37.1,50,56,18
+"presented after bat exposure in room, unsure of contact yesterday / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,21,107,85,36.7,81,84,16
+"presented after bat exposure in room, unsure of contact this morning / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,18,121,70,37.6,86,61,12
+"complains of bat exposure in room, unsure of contact last night / nagreklamo og naay kabog sa kwarto, dili sigurado kon naigo kagabii",Animal Bite Category 3,71,127,77,37.9,89,83,14
+"came with bat exposure in room, unsure of contact 2 hours ago / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo 2 ka oras na ang milabay",Animal Bite Category 3,78,139,80,37.4,79,82,20
+"came with bat exposure in room, unsure of contact yesterday / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,63,144,67,36.8,71,60,19
+"reports bat exposure in room, unsure of contact this morning / nag-report og naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,40,105,65,37.0,105,93,14
+"reports bat exposure in room, unsure of contact last night / nag-report og naay kabog sa kwarto, dili sigurado kon naigo kagabii",Animal Bite Category 3,63,129,60,37.3,95,82,16
+"presented after bat exposure in room, unsure of contact this morning / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,49,111,78,37.1,65,95,18
+"came with bat exposure in room, unsure of contact last night / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo kagabii",Animal Bite Category 3,30,113,67,37.3,79,87,15
+"presented after bat exposure in room, unsure of contact last night / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo kagabii",Animal Bite Category 3,36,118,71,36.6,59,64,14
+"reports bat exposure in room, unsure of contact last night / nag-report og naay kabog sa kwarto, dili sigurado kon naigo kagabii",Animal Bite Category 3,59,113,84,36.9,64,91,15
+"reports bat exposure in room, unsure of contact yesterday / nag-report og naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,4,95,58,36.8,29,89,24
+"presented after bat exposure in room, unsure of contact 2 hours ago / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo 2 ka oras na ang milabay",Animal Bite Category 3,13,109,65,36.9,84,91,15
+"presented after bat exposure in room, unsure of contact today / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo karon",Animal Bite Category 3,61,112,70,36.3,94,60,14
+"reports bat exposure in room, unsure of contact today / nag-report og naay kabog sa kwarto, dili sigurado kon naigo karon",Animal Bite Category 3,71,140,65,37.7,98,67,16
+"complains of bat exposure in room, unsure of contact this morning / nagreklamo og naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,33,117,79,36.7,57,75,12
+"reports bat exposure in room, unsure of contact 2 hours ago / nag-report og naay kabog sa kwarto, dili sigurado kon naigo 2 ka oras na ang milabay",Animal Bite Category 3,51,126,74,37.5,50,80,14
+"complains of bat exposure in room, unsure of contact today / nagreklamo og naay kabog sa kwarto, dili sigurado kon naigo karon",Animal Bite Category 3,63,150,69,37.8,100,67,17
+"reports bat exposure in room, unsure of contact this morning / nag-report og naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,32,125,78,36.6,80,80,12
+"complains of bat exposure in room, unsure of contact yesterday / nagreklamo og naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,33,105,66,37.0,56,90,14
+"complains of bat exposure in room, unsure of contact last night / nagreklamo og naay kabog sa kwarto, dili sigurado kon naigo kagabii",Animal Bite Category 3,65,115,81,36.3,67,76,22
+"presented after bat exposure in room, unsure of contact yesterday / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,15,109,80,38.2,89,74,17
+"presented after bat exposure in room, unsure of contact this morning / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,4,102,66,37.0,16,103,22
+"came with bat exposure in room, unsure of contact 2 hours ago / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo 2 ka oras na ang milabay",Animal Bite Category 3,73,128,77,37.2,79,86,15
+"presented after bat exposure in room, unsure of contact 2 hours ago / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo 2 ka oras na ang milabay",Animal Bite Category 3,61,127,87,36.3,54,90,14
+"presented after bat exposure in room, unsure of contact yesterday / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,35,122,76,37.8,109,89,12
+"presented after bat exposure in room, unsure of contact yesterday / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,4,109,66,37.1,17,104,23
+"presented after bat exposure in room, unsure of contact 2 hours ago / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo 2 ka oras na ang milabay",Animal Bite Category 3,69,141,84,37.3,65,90,14
+"complains of bat exposure in room, unsure of contact today / nagreklamo og naay kabog sa kwarto, dili sigurado kon naigo karon",Animal Bite Category 3,16,108,81,37.9,61,64,12
+"presented after bat exposure in room, unsure of contact last night / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo kagabii",Animal Bite Category 3,27,108,80,36.4,94,72,13
+"reports bat exposure in room, unsure of contact yesterday / nag-report og naay kabog sa kwarto, dili sigurado kon naigo kagahapon",Animal Bite Category 3,77,126,61,37.3,49,78,15
+"came with bat exposure in room, unsure of contact today / miabot nga adunay naay kabog sa kwarto, dili sigurado kon naigo karon",Animal Bite Category 3,64,115,74,37.2,71,58,17
+"complains of bat exposure in room, unsure of contact last night / nagreklamo og naay kabog sa kwarto, dili sigurado kon naigo kagabii",Animal Bite Category 3,80,127,76,37.7,49,57,13
+"complains of bat exposure in room, unsure of contact last night / nagreklamo og naay kabog sa kwarto, dili sigurado kon naigo kagabii",Animal Bite Category 3,14,108,72,36.7,76,94,18
+"presented after bat exposure in room, unsure of contact this morning / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo karon buntag",Animal Bite Category 3,73,136,83,37.2,88,61,22
+"presented after bat exposure in room, unsure of contact 2 hours ago / nagpakita pagkahuman sa naay kabog sa kwarto, dili sigurado kon naigo 2 ka oras na ang milabay",Animal Bite Category 3,15,110,70,37.3,65,95,18
+came with multiple dog bites with deep wounds last night / miabot nga adunay daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,42,122,75,37.8,100,83,18
+came with multiple dog bites with deep wounds this morning / miabot nga adunay daghang paak sa iro nga lawom ang samad karon buntag,Animal Bite Category 3,32,123,82,37.8,77,73,18
+complains of multiple dog bites with deep wounds 2 hours ago / nagreklamo og daghang paak sa iro nga lawom ang samad 2 ka oras na ang milabay,Animal Bite Category 3,59,135,77,38.2,47,60,12
+came with multiple dog bites with deep wounds last night / miabot nga adunay daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,2,99,62,36.5,41,86,25
+complains of multiple dog bites with deep wounds yesterday / nagreklamo og daghang paak sa iro nga lawom ang samad kagahapon,Animal Bite Category 3,67,145,78,36.3,67,64,13
+reports multiple dog bites with deep wounds last night / nag-report og daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,35,116,83,36.8,83,75,15
+presented after multiple dog bites with deep wounds last night / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,53,123,71,37.8,67,64,17
+reports multiple dog bites with deep wounds today / nag-report og daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,14,124,85,37.7,93,79,12
+reports multiple dog bites with deep wounds this morning / nag-report og daghang paak sa iro nga lawom ang samad karon buntag,Animal Bite Category 3,44,116,78,38.0,74,86,13
+complains of multiple dog bites with deep wounds yesterday / nagreklamo og daghang paak sa iro nga lawom ang samad kagahapon,Animal Bite Category 3,8,99,56,37.6,25,90,28
+came with multiple dog bites with deep wounds this morning / miabot nga adunay daghang paak sa iro nga lawom ang samad karon buntag,Animal Bite Category 3,8,102,69,36.7,28,104,28
+presented after multiple dog bites with deep wounds 2 hours ago / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad 2 ka oras na ang milabay,Animal Bite Category 3,20,109,75,37.4,51,65,19
+complains of multiple dog bites with deep wounds this morning / nagreklamo og daghang paak sa iro nga lawom ang samad karon buntag,Animal Bite Category 3,12,117,81,37.7,106,87,14
+complains of multiple dog bites with deep wounds today / nagreklamo og daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,52,125,83,37.5,76,72,20
+presented after multiple dog bites with deep wounds 2 hours ago / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad 2 ka oras na ang milabay,Animal Bite Category 3,36,129,78,36.5,97,80,13
+came with multiple dog bites with deep wounds last night / miabot nga adunay daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,46,111,75,37.8,66,82,12
+complains of multiple dog bites with deep wounds 2 hours ago / nagreklamo og daghang paak sa iro nga lawom ang samad 2 ka oras na ang milabay,Animal Bite Category 3,58,124,69,38.1,74,88,12
+came with multiple dog bites with deep wounds today / miabot nga adunay daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,21,129,67,36.8,63,67,12
+complains of multiple dog bites with deep wounds last night / nagreklamo og daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,45,127,68,37.2,87,79,19
+reports multiple dog bites with deep wounds this morning / nag-report og daghang paak sa iro nga lawom ang samad karon buntag,Animal Bite Category 3,29,111,82,37.3,63,93,16
+came with multiple dog bites with deep wounds today / miabot nga adunay daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,76,143,61,36.3,57,71,14
+came with multiple dog bites with deep wounds today / miabot nga adunay daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,61,110,62,36.7,99,79,22
+reports multiple dog bites with deep wounds 2 hours ago / nag-report og daghang paak sa iro nga lawom ang samad 2 ka oras na ang milabay,Animal Bite Category 3,4,99,67,37.5,37,87,26
+reports multiple dog bites with deep wounds today / nag-report og daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,64,148,77,36.6,74,60,14
+reports multiple dog bites with deep wounds 2 hours ago / nag-report og daghang paak sa iro nga lawom ang samad 2 ka oras na ang milabay,Animal Bite Category 3,33,134,81,37.2,65,79,17
+came with multiple dog bites with deep wounds today / miabot nga adunay daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,47,116,85,38.2,109,79,15
+complains of multiple dog bites with deep wounds 2 hours ago / nagreklamo og daghang paak sa iro nga lawom ang samad 2 ka oras na ang milabay,Animal Bite Category 3,34,133,77,38.1,73,61,20
+presented after multiple dog bites with deep wounds yesterday / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad kagahapon,Animal Bite Category 3,52,126,69,37.3,74,65,18
+complains of multiple dog bites with deep wounds yesterday / nagreklamo og daghang paak sa iro nga lawom ang samad kagahapon,Animal Bite Category 3,75,119,73,36.8,79,74,21
+presented after multiple dog bites with deep wounds yesterday / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad kagahapon,Animal Bite Category 3,19,123,82,36.9,62,72,14
+reports multiple dog bites with deep wounds yesterday / nag-report og daghang paak sa iro nga lawom ang samad kagahapon,Animal Bite Category 3,74,120,70,37.2,91,59,20
+presented after multiple dog bites with deep wounds 2 hours ago / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad 2 ka oras na ang milabay,Animal Bite Category 3,42,131,69,38.0,97,61,17
+complains of multiple dog bites with deep wounds yesterday / nagreklamo og daghang paak sa iro nga lawom ang samad kagahapon,Animal Bite Category 3,58,128,85,37.8,58,77,14
+reports multiple dog bites with deep wounds 2 hours ago / nag-report og daghang paak sa iro nga lawom ang samad 2 ka oras na ang milabay,Animal Bite Category 3,5,109,63,37.7,22,99,23
+came with multiple dog bites with deep wounds yesterday / miabot nga adunay daghang paak sa iro nga lawom ang samad kagahapon,Animal Bite Category 3,12,127,80,37.9,105,68,20
+presented after multiple dog bites with deep wounds today / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,51,120,80,36.7,49,68,14
+complains of multiple dog bites with deep wounds this morning / nagreklamo og daghang paak sa iro nga lawom ang samad karon buntag,Animal Bite Category 3,36,135,78,37.7,53,74,15
+presented after multiple dog bites with deep wounds today / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,80,141,82,37.8,72,75,19
+reports multiple dog bites with deep wounds last night / nag-report og daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,79,134,83,37.3,92,75,18
+reports multiple dog bites with deep wounds last night / nag-report og daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,15,119,79,37.3,95,62,15
+came with multiple dog bites with deep wounds 2 hours ago / miabot nga adunay daghang paak sa iro nga lawom ang samad 2 ka oras na ang milabay,Animal Bite Category 3,51,121,85,36.9,95,63,15
+complains of multiple dog bites with deep wounds this morning / nagreklamo og daghang paak sa iro nga lawom ang samad karon buntag,Animal Bite Category 3,61,120,73,37.9,89,73,21
+presented after multiple dog bites with deep wounds this morning / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad karon buntag,Animal Bite Category 3,59,107,81,37.8,62,67,14
+presented after multiple dog bites with deep wounds today / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,43,119,65,37.4,70,71,19
+came with multiple dog bites with deep wounds today / miabot nga adunay daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,34,115,85,36.5,102,70,13
+presented after multiple dog bites with deep wounds today / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,69,134,83,37.9,69,87,21
+reports multiple dog bites with deep wounds this morning / nag-report og daghang paak sa iro nga lawom ang samad karon buntag,Animal Bite Category 3,23,134,75,38.0,67,69,14
+complains of multiple dog bites with deep wounds today / nagreklamo og daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,41,114,79,36.5,61,78,14
+presented after multiple dog bites with deep wounds yesterday / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad kagahapon,Animal Bite Category 3,34,105,79,37.3,45,91,19
+complains of multiple dog bites with deep wounds last night / nagreklamo og daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,29,123,80,37.1,45,89,18
+reports multiple dog bites with deep wounds 2 hours ago / nag-report og daghang paak sa iro nga lawom ang samad 2 ka oras na ang milabay,Animal Bite Category 3,37,124,85,36.4,63,95,15
+reports multiple dog bites with deep wounds today / nag-report og daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,6,94,56,37.2,17,101,24
+came with multiple dog bites with deep wounds today / miabot nga adunay daghang paak sa iro nga lawom ang samad karon,Animal Bite Category 3,55,110,70,36.6,103,78,20
+presented after multiple dog bites with deep wounds last night / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,13,129,74,38.0,53,80,17
+came with multiple dog bites with deep wounds last night / miabot nga adunay daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,10,99,70,37.9,23,84,21
+presented after multiple dog bites with deep wounds last night / nagpakita pagkahuman sa daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,54,121,71,36.5,56,73,12
+complains of multiple dog bites with deep wounds last night / nagreklamo og daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,38,118,84,37.3,90,80,16
+complains of multiple dog bites with deep wounds 2 hours ago / nagreklamo og daghang paak sa iro nga lawom ang samad 2 ka oras na ang milabay,Animal Bite Category 3,74,141,76,37.7,84,86,19
+complains of multiple dog bites with deep wounds last night / nagreklamo og daghang paak sa iro nga lawom ang samad kagabii,Animal Bite Category 3,26,105,68,37.5,60,61,19
+reports multiple dog bites with deep wounds yesterday / nag-report og daghang paak sa iro nga lawom ang samad kagahapon,Animal Bite Category 3,55,118,66,37.4,72,81,17
+reports puppy lick on intact skin while playing today / nag-report og puppy lick on intact skin while playing karon,Animal Bite Category 1,38,113,67,37.3,86,79,16
+presented after puppy lick on intact skin while playing this morning / nagpakita pagkahuman sa puppy lick on intact skin while playing karon buntag,Animal Bite Category 1,44,115,77,36.7,88,61,14
+came with puppy lick on intact skin while playing this morning / miabot nga adunay puppy lick on intact skin while playing karon buntag,Animal Bite Category 1,6,110,59,37.8,43,95,22
+reports puppy lick on intact skin while playing yesterday / nag-report og puppy lick on intact skin while playing kagahapon,Animal Bite Category 1,54,134,66,37.4,85,93,16
+reports puppy lick on intact skin while playing 2 hours ago / nag-report og puppy lick on intact skin while playing 2 ka oras na ang milabay,Animal Bite Category 1,75,131,85,37.9,62,77,13
+came with puppy lick on intact skin while playing 2 hours ago / miabot nga adunay puppy lick on intact skin while playing 2 ka oras na ang milabay,Animal Bite Category 1,50,125,82,36.7,59,70,18
+presented after puppy lick on intact skin while playing 2 hours ago / nagpakita pagkahuman sa puppy lick on intact skin while playing 2 ka oras na ang milabay,Animal Bite Category 1,6,98,68,38.3,26,82,27
+complains of puppy lick on intact skin while playing today / nagreklamo og puppy lick on intact skin while playing karon,Animal Bite Category 1,29,121,74,37.0,49,71,13
+presented after puppy lick on intact skin while playing last night / nagpakita pagkahuman sa puppy lick on intact skin while playing kagabii,Animal Bite Category 1,58,121,65,36.6,88,90,20
+complains of puppy lick on intact skin while playing today / nagreklamo og puppy lick on intact skin while playing karon,Animal Bite Category 1,41,129,75,37.9,61,69,13
+reports puppy lick on intact skin while playing 2 hours ago / nag-report og puppy lick on intact skin while playing 2 ka oras na ang milabay,Animal Bite Category 1,60,134,82,36.2,47,88,13
+came with puppy lick on intact skin while playing yesterday / miabot nga adunay puppy lick on intact skin while playing kagahapon,Animal Bite Category 1,61,112,63,37.5,46,88,22
+reports puppy lick on intact skin while playing 2 hours ago / nag-report og puppy lick on intact skin while playing 2 ka oras na ang milabay,Animal Bite Category 1,43,111,71,37.3,101,78,16
+reports puppy lick on intact skin while playing yesterday / nag-report og puppy lick on intact skin while playing kagahapon,Animal Bite Category 1,21,110,73,38.1,110,67,12
+came with puppy lick on intact skin while playing last night / miabot nga adunay puppy lick on intact skin while playing kagabii,Animal Bite Category 1,71,132,77,36.5,90,75,16
+complains of puppy lick on intact skin while playing today / nagreklamo og puppy lick on intact skin while playing karon,Animal Bite Category 1,33,110,67,37.3,51,79,17
+complains of puppy lick on intact skin while playing last night / nagreklamo og puppy lick on intact skin while playing kagabii,Animal Bite Category 1,62,113,63,36.4,70,79,12
+complains of puppy lick on intact skin while playing last night / nagreklamo og puppy lick on intact skin while playing kagabii,Animal Bite Category 1,77,150,86,36.8,66,83,21
+reports puppy lick on intact skin while playing this morning / nag-report og puppy lick on intact skin while playing karon buntag,Animal Bite Category 1,12,134,79,37.8,104,68,13
+complains of puppy lick on intact skin while playing last night / nagreklamo og puppy lick on intact skin while playing kagabii,Animal Bite Category 1,41,126,85,36.7,73,89,19
+came with puppy lick on intact skin while playing this morning / miabot nga adunay puppy lick on intact skin while playing karon buntag,Animal Bite Category 1,35,134,76,37.6,87,85,14
+complains of puppy lick on intact skin while playing 2 hours ago / nagreklamo og puppy lick on intact skin while playing 2 ka oras na ang milabay,Animal Bite Category 1,64,111,62,36.8,74,85,13
+came with puppy lick on intact skin while playing last night / miabot nga adunay puppy lick on intact skin while playing kagabii,Animal Bite Category 1,46,124,83,36.5,58,68,20
+complains of puppy lick on intact skin while playing this morning / nagreklamo og puppy lick on intact skin while playing karon buntag,Animal Bite Category 1,11,99,69,37.0,22,92,26
+came with puppy lick on intact skin while playing last night / miabot nga adunay puppy lick on intact skin while playing kagabii,Animal Bite Category 1,51,107,75,37.8,100,73,18
+came with puppy lick on intact skin while playing last night / miabot nga adunay puppy lick on intact skin while playing kagabii,Animal Bite Category 1,32,110,67,37.4,104,91,13
+reports puppy lick on intact skin while playing last night / nag-report og puppy lick on intact skin while playing kagabii,Animal Bite Category 1,14,131,79,38.1,53,71,16
+reports puppy lick on intact skin while playing yesterday / nag-report og puppy lick on intact skin while playing kagahapon,Animal Bite Category 1,50,115,80,36.7,62,63,13
+complains of puppy lick on intact skin while playing yesterday / nagreklamo og puppy lick on intact skin while playing kagahapon,Animal Bite Category 1,21,119,82,37.5,102,78,18
+reports puppy lick on intact skin while playing last night / nag-report og puppy lick on intact skin while playing kagabii,Animal Bite Category 1,42,114,83,37.7,89,79,18
+came with puppy lick on intact skin while playing last night / miabot nga adunay puppy lick on intact skin while playing kagabii,Animal Bite Category 1,3,109,67,38.2,16,107,22
+presented after puppy lick on intact skin while playing last night / nagpakita pagkahuman sa puppy lick on intact skin while playing kagabii,Animal Bite Category 1,8,90,66,38.2,22,83,24
+complains of puppy lick on intact skin while playing this morning / nagreklamo og puppy lick on intact skin while playing karon buntag,Animal Bite Category 1,52,125,75,37.0,72,84,18
+came with puppy lick on intact skin while playing yesterday / miabot nga adunay puppy lick on intact skin while playing kagahapon,Animal Bite Category 1,19,111,82,37.9,64,84,17
+presented after puppy lick on intact skin while playing yesterday / nagpakita pagkahuman sa puppy lick on intact skin while playing kagahapon,Animal Bite Category 1,19,105,67,37.7,107,61,14
+complains of puppy lick on intact skin while playing this morning / nagreklamo og puppy lick on intact skin while playing karon buntag,Animal Bite Category 1,12,109,85,38.0,99,86,19
+presented after puppy lick on intact skin while playing last night / nagpakita pagkahuman sa puppy lick on intact skin while playing kagabii,Animal Bite Category 1,67,137,77,36.8,56,83,18
+presented after puppy lick on intact skin while playing last night / nagpakita pagkahuman sa puppy lick on intact skin while playing kagabii,Animal Bite Category 1,2,108,70,37.9,23,107,23
+reports puppy lick on intact skin while playing last night / nag-report og puppy lick on intact skin while playing kagabii,Animal Bite Category 1,75,133,61,37.1,68,57,21
+reports puppy lick on intact skin while playing yesterday / nag-report og puppy lick on intact skin while playing kagahapon,Animal Bite Category 1,63,115,64,37.0,50,88,16
+came with puppy lick on intact skin while playing last night / miabot nga adunay puppy lick on intact skin while playing kagabii,Animal Bite Category 1,62,150,83,37.3,96,59,22
+came with puppy lick on intact skin while playing this morning / miabot nga adunay puppy lick on intact skin while playing karon buntag,Animal Bite Category 1,8,100,55,37.5,30,95,27
+came with puppy lick on intact skin while playing today / miabot nga adunay puppy lick on intact skin while playing karon,Animal Bite Category 1,47,135,74,36.4,83,78,14
+reports puppy lick on intact skin while playing 2 hours ago / nag-report og puppy lick on intact skin while playing 2 ka oras na ang milabay,Animal Bite Category 1,62,147,65,38.0,96,58,22
+came with puppy lick on intact skin while playing yesterday / miabot nga adunay puppy lick on intact skin while playing kagahapon,Animal Bite Category 1,64,115,64,37.7,62,87,13
+complains of puppy lick on intact skin while playing last night / nagreklamo og puppy lick on intact skin while playing kagabii,Animal Bite Category 1,80,127,68,37.5,83,71,12
+presented after puppy lick on intact skin while playing yesterday / nagpakita pagkahuman sa puppy lick on intact skin while playing kagahapon,Animal Bite Category 1,21,126,79,36.8,75,83,14
+complains of puppy lick on intact skin while playing this morning / nagreklamo og puppy lick on intact skin while playing karon buntag,Animal Bite Category 1,69,112,70,37.3,97,60,14
+complains of puppy lick on intact skin while playing last night / nagreklamo og puppy lick on intact skin while playing kagabii,Animal Bite Category 1,54,129,77,37.7,66,75,19
+presented after puppy lick on intact skin while playing this morning / nagpakita pagkahuman sa puppy lick on intact skin while playing karon buntag,Animal Bite Category 1,46,106,85,36.4,104,76,13
+presented after puppy lick on intact skin while playing 2 hours ago / nagpakita pagkahuman sa puppy lick on intact skin while playing 2 ka oras na ang milabay,Animal Bite Category 1,40,120,82,37.6,94,74,18
+presented after puppy lick on intact skin while playing 2 hours ago / nagpakita pagkahuman sa puppy lick on intact skin while playing 2 ka oras na ang milabay,Animal Bite Category 1,20,121,78,38.1,102,60,16
+presented after puppy lick on intact skin while playing last night / nagpakita pagkahuman sa puppy lick on intact skin while playing kagabii,Animal Bite Category 1,69,112,63,36.8,99,89,22
+presented after puppy lick on intact skin while playing yesterday / nagpakita pagkahuman sa puppy lick on intact skin while playing kagahapon,Animal Bite Category 1,36,115,73,36.8,95,77,13
+came with puppy lick on intact skin while playing last night / miabot nga adunay puppy lick on intact skin while playing kagabii,Animal Bite Category 1,77,122,76,37.4,56,76,22
+presented after puppy lick on intact skin while playing 2 hours ago / nagpakita pagkahuman sa puppy lick on intact skin while playing 2 ka oras na ang milabay,Animal Bite Category 1,3,90,57,36.7,18,80,26
+reports puppy lick on intact skin while playing last night / nag-report og puppy lick on intact skin while playing kagabii,Animal Bite Category 1,30,128,74,36.4,56,76,15
+presented after puppy lick on intact skin while playing last night / nagpakita pagkahuman sa puppy lick on intact skin while playing kagabii,Animal Bite Category 1,29,135,84,36.5,61,67,13
+presented after puppy lick on intact skin while playing 2 hours ago / nagpakita pagkahuman sa puppy lick on intact skin while playing 2 ka oras na ang milabay,Animal Bite Category 1,25,133,68,36.9,54,71,16
+reports puppy lick on intact skin while playing this morning / nag-report og puppy lick on intact skin while playing karon buntag,Animal Bite Category 1,56,127,75,37.8,80,76,14
+presented after monkey scratch minor without bleeding yesterday / nagpakita pagkahuman sa monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,51,115,66,36.6,53,76,16
+presented after monkey scratch minor without bleeding yesterday / nagpakita pagkahuman sa monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,80,135,65,36.5,94,86,13
+reports monkey scratch minor without bleeding last night / nag-report og monkey scratch minor without bleeding kagabii,Animal Bite Category 2,80,116,89,36.4,49,83,16
+reports monkey scratch minor without bleeding this morning / nag-report og monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,34,129,79,36.6,45,61,19
+presented after monkey scratch minor without bleeding this morning / nagpakita pagkahuman sa monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,36,109,75,37.3,107,85,12
+reports monkey scratch minor without bleeding last night / nag-report og monkey scratch minor without bleeding kagabii,Animal Bite Category 2,53,132,67,36.3,106,94,15
+reports monkey scratch minor without bleeding 2 hours ago / nag-report og monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,70,132,70,36.3,86,74,18
+reports monkey scratch minor without bleeding this morning / nag-report og monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,70,131,62,37.4,56,84,16
+complains of monkey scratch minor without bleeding yesterday / nagreklamo og monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,26,114,77,37.2,101,66,17
+came with monkey scratch minor without bleeding this morning / miabot nga adunay monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,6,96,55,37.5,17,103,23
+reports monkey scratch minor without bleeding this morning / nag-report og monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,70,138,90,36.8,66,56,12
+complains of monkey scratch minor without bleeding today / nagreklamo og monkey scratch minor without bleeding karon,Animal Bite Category 2,17,111,85,38.1,64,93,19
+reports monkey scratch minor without bleeding yesterday / nag-report og monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,6,94,70,37.4,44,100,20
+presented after monkey scratch minor without bleeding last night / nagpakita pagkahuman sa monkey scratch minor without bleeding kagabii,Animal Bite Category 2,18,105,70,37.9,57,63,16
+reports monkey scratch minor without bleeding yesterday / nag-report og monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,23,131,83,36.5,73,64,13
+came with monkey scratch minor without bleeding yesterday / miabot nga adunay monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,56,115,77,38.2,62,80,13
+presented after monkey scratch minor without bleeding yesterday / nagpakita pagkahuman sa monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,7,108,60,36.7,19,90,21
+complains of monkey scratch minor without bleeding today / nagreklamo og monkey scratch minor without bleeding karon,Animal Bite Category 2,49,122,70,38.1,50,88,15
+reports monkey scratch minor without bleeding today / nag-report og monkey scratch minor without bleeding karon,Animal Bite Category 2,80,134,84,37.8,50,65,12
+complains of monkey scratch minor without bleeding yesterday / nagreklamo og monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,24,134,67,37.6,105,78,18
+reports monkey scratch minor without bleeding last night / nag-report og monkey scratch minor without bleeding kagabii,Animal Bite Category 2,20,125,73,37.1,67,93,19
+complains of monkey scratch minor without bleeding yesterday / nagreklamo og monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,25,127,80,37.0,45,65,16
+complains of monkey scratch minor without bleeding 2 hours ago / nagreklamo og monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,17,121,68,37.3,104,83,20
+presented after monkey scratch minor without bleeding this morning / nagpakita pagkahuman sa monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,8,96,58,37.9,45,105,22
+came with monkey scratch minor without bleeding 2 hours ago / miabot nga adunay monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,24,110,66,36.8,100,63,17
+complains of monkey scratch minor without bleeding today / nagreklamo og monkey scratch minor without bleeding karon,Animal Bite Category 2,80,139,61,37.9,56,61,12
+came with monkey scratch minor without bleeding this morning / miabot nga adunay monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,64,142,63,37.5,82,59,15
+complains of monkey scratch minor without bleeding this morning / nagreklamo og monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,27,128,75,36.9,57,74,13
+presented after monkey scratch minor without bleeding yesterday / nagpakita pagkahuman sa monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,27,117,72,37.4,51,64,19
+presented after monkey scratch minor without bleeding yesterday / nagpakita pagkahuman sa monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,29,134,84,37.0,62,89,14
+came with monkey scratch minor without bleeding yesterday / miabot nga adunay monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,47,113,71,36.4,52,81,14
+complains of monkey scratch minor without bleeding 2 hours ago / nagreklamo og monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,16,132,79,36.6,88,89,18
+complains of monkey scratch minor without bleeding today / nagreklamo og monkey scratch minor without bleeding karon,Animal Bite Category 2,79,120,85,37.9,99,65,21
+came with monkey scratch minor without bleeding today / miabot nga adunay monkey scratch minor without bleeding karon,Animal Bite Category 2,54,132,81,37.4,104,91,15
+complains of monkey scratch minor without bleeding last night / nagreklamo og monkey scratch minor without bleeding kagabii,Animal Bite Category 2,56,128,72,37.1,73,75,17
+reports monkey scratch minor without bleeding this morning / nag-report og monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,2,103,56,38.0,31,81,27
+reports monkey scratch minor without bleeding this morning / nag-report og monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,69,135,75,37.1,50,61,19
+reports monkey scratch minor without bleeding this morning / nag-report og monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,29,109,76,37.5,56,78,15
+presented after monkey scratch minor without bleeding yesterday / nagpakita pagkahuman sa monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,41,110,79,37.2,62,61,19
+reports monkey scratch minor without bleeding 2 hours ago / nag-report og monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,49,125,79,37.0,87,60,13
+came with monkey scratch minor without bleeding today / miabot nga adunay monkey scratch minor without bleeding karon,Animal Bite Category 2,56,129,73,37.8,55,94,15
+reports monkey scratch minor without bleeding 2 hours ago / nag-report og monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,67,133,88,36.9,74,58,13
+complains of monkey scratch minor without bleeding 2 hours ago / nagreklamo og monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,48,110,85,37.4,71,95,13
+came with monkey scratch minor without bleeding 2 hours ago / miabot nga adunay monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,32,122,68,37.7,73,90,15
+presented after monkey scratch minor without bleeding this morning / nagpakita pagkahuman sa monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,36,121,78,36.4,89,77,12
+came with monkey scratch minor without bleeding this morning / miabot nga adunay monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,66,143,86,37.5,88,62,19
+complains of monkey scratch minor without bleeding 2 hours ago / nagreklamo og monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,49,130,67,36.5,95,72,19
+complains of monkey scratch minor without bleeding yesterday / nagreklamo og monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,11,93,60,37.9,30,88,21
+complains of monkey scratch minor without bleeding this morning / nagreklamo og monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,68,150,60,37.9,79,73,18
+complains of monkey scratch minor without bleeding last night / nagreklamo og monkey scratch minor without bleeding kagabii,Animal Bite Category 2,46,118,79,36.7,47,61,16
+presented after monkey scratch minor without bleeding 2 hours ago / nagpakita pagkahuman sa monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,44,118,83,37.2,101,81,17
+presented after monkey scratch minor without bleeding 2 hours ago / nagpakita pagkahuman sa monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,74,118,88,37.6,59,74,14
+complains of monkey scratch minor without bleeding last night / nagreklamo og monkey scratch minor without bleeding kagabii,Animal Bite Category 2,38,129,66,36.8,66,69,17
+came with monkey scratch minor without bleeding last night / miabot nga adunay monkey scratch minor without bleeding kagabii,Animal Bite Category 2,38,110,70,36.8,50,69,14
+came with monkey scratch minor without bleeding 2 hours ago / miabot nga adunay monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,18,119,73,36.7,49,83,14
+reports monkey scratch minor without bleeding this morning / nag-report og monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,20,116,79,37.3,60,94,14
+came with monkey scratch minor without bleeding 2 hours ago / miabot nga adunay monkey scratch minor without bleeding 2 ka oras na ang milabay,Animal Bite Category 2,65,119,90,36.5,92,84,17
+came with monkey scratch minor without bleeding today / miabot nga adunay monkey scratch minor without bleeding karon,Animal Bite Category 2,62,128,90,37.5,73,64,21
+complains of monkey scratch minor without bleeding this morning / nagreklamo og monkey scratch minor without bleeding karon buntag,Animal Bite Category 2,63,112,64,36.8,70,90,13
+came with monkey scratch minor without bleeding yesterday / miabot nga adunay monkey scratch minor without bleeding kagahapon,Animal Bite Category 2,47,107,75,37.4,73,63,15
+complains of fox bite through clothing this morning / nagreklamo og fox bite through clothing karon buntag,Animal Bite Category 3,4,92,69,38.5,27,101,21
+presented after fox bite through clothing yesterday / nagpakita pagkahuman sa fox bite through clothing kagahapon,Animal Bite Category 3,42,124,84,38.0,91,92,12
+came with fox bite through clothing this morning / miabot nga adunay fox bite through clothing karon buntag,Animal Bite Category 3,56,116,77,36.8,89,83,12
+complains of fox bite through clothing this morning / nagreklamo og fox bite through clothing karon buntag,Animal Bite Category 3,73,115,66,37.6,63,83,18
+came with fox bite through clothing today / miabot nga adunay fox bite through clothing karon,Animal Bite Category 3,55,109,83,36.7,105,65,14
+presented after fox bite through clothing yesterday / nagpakita pagkahuman sa fox bite through clothing kagahapon,Animal Bite Category 3,77,134,62,37.3,62,55,18
+came with fox bite through clothing last night / miabot nga adunay fox bite through clothing kagabii,Animal Bite Category 3,73,139,82,36.5,69,63,15
+presented after fox bite through clothing yesterday / nagpakita pagkahuman sa fox bite through clothing kagahapon,Animal Bite Category 3,64,112,86,36.7,80,74,21
+presented after fox bite through clothing today / nagpakita pagkahuman sa fox bite through clothing karon,Animal Bite Category 3,5,90,59,38.4,41,88,24
+presented after fox bite through clothing today / nagpakita pagkahuman sa fox bite through clothing karon,Animal Bite Category 3,38,118,70,36.4,80,91,15
+presented after fox bite through clothing today / nagpakita pagkahuman sa fox bite through clothing karon,Animal Bite Category 3,78,133,78,37.0,61,85,21
+complains of fox bite through clothing 2 hours ago / nagreklamo og fox bite through clothing 2 ka oras na ang milabay,Animal Bite Category 3,49,121,83,36.6,52,61,16
+came with fox bite through clothing today / miabot nga adunay fox bite through clothing karon,Animal Bite Category 3,61,118,71,36.7,71,65,12
+reports fox bite through clothing last night / nag-report og fox bite through clothing kagabii,Animal Bite Category 3,39,114,81,36.7,68,64,20
+reports fox bite through clothing last night / nag-report og fox bite through clothing kagabii,Animal Bite Category 3,23,122,75,36.8,91,80,16
+came with fox bite through clothing this morning / miabot nga adunay fox bite through clothing karon buntag,Animal Bite Category 3,76,132,86,36.4,63,64,12
+complains of fox bite through clothing last night / nagreklamo og fox bite through clothing kagabii,Animal Bite Category 3,54,115,70,36.6,73,66,15
+reports fox bite through clothing this morning / nag-report og fox bite through clothing karon buntag,Animal Bite Category 3,80,143,87,37.5,96,89,20
+came with fox bite through clothing yesterday / miabot nga adunay fox bite through clothing kagahapon,Animal Bite Category 3,60,114,63,37.1,64,63,12
+reports fox bite through clothing today / nag-report og fox bite through clothing karon,Animal Bite Category 3,58,133,84,36.6,83,93,17
+reports fox bite through clothing this morning / nag-report og fox bite through clothing karon buntag,Animal Bite Category 3,30,109,69,36.5,61,74,16
+reports fox bite through clothing last night / nag-report og fox bite through clothing kagabii,Animal Bite Category 3,16,107,65,36.4,58,90,18
+reports fox bite through clothing today / nag-report og fox bite through clothing karon,Animal Bite Category 3,77,113,75,36.3,64,62,16
+reports fox bite through clothing today / nag-report og fox bite through clothing karon,Animal Bite Category 3,17,134,84,36.7,89,73,15
+complains of fox bite through clothing last night / nagreklamo og fox bite through clothing kagabii,Animal Bite Category 3,20,132,73,36.6,109,82,17
+came with fox bite through clothing yesterday / miabot nga adunay fox bite through clothing kagahapon,Animal Bite Category 3,74,114,63,36.6,57,55,20
+presented after fox bite through clothing 2 hours ago / nagpakita pagkahuman sa fox bite through clothing 2 ka oras na ang milabay,Animal Bite Category 3,70,110,83,37.9,99,61,15
+presented after fox bite through clothing yesterday / nagpakita pagkahuman sa fox bite through clothing kagahapon,Animal Bite Category 3,77,121,74,37.7,69,61,14
+complains of fox bite through clothing this morning / nagreklamo og fox bite through clothing karon buntag,Animal Bite Category 3,67,124,73,36.4,52,62,17
+reports fox bite through clothing this morning / nag-report og fox bite through clothing karon buntag,Animal Bite Category 3,48,127,74,36.5,108,95,12
+came with fox bite through clothing this morning / miabot nga adunay fox bite through clothing karon buntag,Animal Bite Category 3,38,119,84,36.7,97,79,19
+reports fox bite through clothing this morning / nag-report og fox bite through clothing karon buntag,Animal Bite Category 3,26,132,67,36.6,107,90,17
+complains of fox bite through clothing today / nagreklamo og fox bite through clothing karon,Animal Bite Category 3,58,121,67,37.1,58,67,14
+presented after fox bite through clothing 2 hours ago / nagpakita pagkahuman sa fox bite through clothing 2 ka oras na ang milabay,Animal Bite Category 3,48,111,75,36.5,99,72,18
+presented after fox bite through clothing this morning / nagpakita pagkahuman sa fox bite through clothing karon buntag,Animal Bite Category 3,76,147,68,37.1,83,80,17
+presented after fox bite through clothing yesterday / nagpakita pagkahuman sa fox bite through clothing kagahapon,Animal Bite Category 3,67,127,64,36.4,76,84,13
+complains of fox bite through clothing this morning / nagreklamo og fox bite through clothing karon buntag,Animal Bite Category 3,19,105,68,37.2,48,63,13
+reports fox bite through clothing last night / nag-report og fox bite through clothing kagabii,Animal Bite Category 3,79,130,64,37.3,93,74,21
+came with fox bite through clothing last night / miabot nga adunay fox bite through clothing kagabii,Animal Bite Category 3,65,139,66,37.1,77,73,22
+presented after fox bite through clothing today / nagpakita pagkahuman sa fox bite through clothing karon,Animal Bite Category 3,45,130,82,38.1,49,94,12
+complains of fox bite through clothing last night / nagreklamo og fox bite through clothing kagabii,Animal Bite Category 3,51,119,75,37.2,49,84,19
+presented after fox bite through clothing today / nagpakita pagkahuman sa fox bite through clothing karon,Animal Bite Category 3,40,133,70,36.6,94,91,18
+presented after fox bite through clothing last night / nagpakita pagkahuman sa fox bite through clothing kagabii,Animal Bite Category 3,74,141,81,37.2,75,90,22
+came with fox bite through clothing 2 hours ago / miabot nga adunay fox bite through clothing 2 ka oras na ang milabay,Animal Bite Category 3,22,121,66,37.2,93,85,16
+reports fox bite through clothing 2 hours ago / nag-report og fox bite through clothing 2 ka oras na ang milabay,Animal Bite Category 3,43,106,65,37.9,89,62,14
+complains of fox bite through clothing yesterday / nagreklamo og fox bite through clothing kagahapon,Animal Bite Category 3,50,108,78,37.1,52,82,17
+came with fox bite through clothing yesterday / miabot nga adunay fox bite through clothing kagahapon,Animal Bite Category 3,32,125,74,38.0,59,65,13
+presented after fox bite through clothing 2 hours ago / nagpakita pagkahuman sa fox bite through clothing 2 ka oras na ang milabay,Animal Bite Category 3,4,107,65,37.8,28,81,27
+reports fox bite through clothing this morning / nag-report og fox bite through clothing karon buntag,Animal Bite Category 3,4,105,55,37.6,25,90,26
+complains of fox bite through clothing last night / nagreklamo og fox bite through clothing kagabii,Animal Bite Category 3,14,127,71,37.3,88,81,19
+complains of fox bite through clothing 2 hours ago / nagreklamo og fox bite through clothing 2 ka oras na ang milabay,Animal Bite Category 3,40,116,78,37.5,54,72,19
+reports fox bite through clothing last night / nag-report og fox bite through clothing kagabii,Animal Bite Category 3,35,106,74,37.5,56,85,15
+reports fox bite through clothing 2 hours ago / nag-report og fox bite through clothing 2 ka oras na ang milabay,Animal Bite Category 3,45,113,67,37.1,89,93,19
+came with fox bite through clothing last night / miabot nga adunay fox bite through clothing kagabii,Animal Bite Category 3,66,129,73,36.6,70,89,17
+complains of fox bite through clothing last night / nagreklamo og fox bite through clothing kagabii,Animal Bite Category 3,67,139,81,37.8,85,90,14
+presented after fox bite through clothing last night / nagpakita pagkahuman sa fox bite through clothing kagabii,Animal Bite Category 3,65,123,81,37.9,79,84,16
+came with fox bite through clothing this morning / miabot nga adunay fox bite through clothing karon buntag,Animal Bite Category 3,9,106,61,36.8,19,91,27
+complains of fox bite through clothing 2 hours ago / nagreklamo og fox bite through clothing 2 ka oras na ang milabay,Animal Bite Category 3,54,115,67,36.8,81,73,18
+complains of fox bite through clothing 2 hours ago / nagreklamo og fox bite through clothing 2 ka oras na ang milabay,Animal Bite Category 3,78,125,72,36.5,46,70,13
+complains of fox bite through clothing yesterday / nagreklamo og fox bite through clothing kagahapon,Animal Bite Category 3,61,141,77,37.4,47,82,18
+reports rat bite with puncture wound this morning / nag-report og rat bite with puncture wound karon buntag,Animal Bite Category 3,36,109,65,37.6,67,76,16
+presented after rat bite with puncture wound 2 hours ago / nagpakita pagkahuman sa rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,4,91,57,38.2,43,90,24
+reports rat bite with puncture wound last night / nag-report og rat bite with puncture wound kagabii,Animal Bite Category 3,13,117,69,37.4,109,75,13
+came with rat bite with puncture wound 2 hours ago / miabot nga adunay rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,76,143,68,36.6,52,86,13
+complains of rat bite with puncture wound yesterday / nagreklamo og rat bite with puncture wound kagahapon,Animal Bite Category 3,76,134,85,36.6,51,70,18
+reports rat bite with puncture wound 2 hours ago / nag-report og rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,37,119,78,37.2,92,76,12
+came with rat bite with puncture wound this morning / miabot nga adunay rat bite with puncture wound karon buntag,Animal Bite Category 3,71,137,75,37.8,54,70,16
+complains of rat bite with puncture wound 2 hours ago / nagreklamo og rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,49,131,74,37.9,51,61,12
+complains of rat bite with puncture wound this morning / nagreklamo og rat bite with puncture wound karon buntag,Animal Bite Category 3,72,134,69,36.4,100,78,22
+came with rat bite with puncture wound yesterday / miabot nga adunay rat bite with puncture wound kagahapon,Animal Bite Category 3,51,105,77,36.5,75,76,16
+reports rat bite with puncture wound this morning / nag-report og rat bite with puncture wound karon buntag,Animal Bite Category 3,22,134,79,37.8,80,80,18
+reports rat bite with puncture wound yesterday / nag-report og rat bite with puncture wound kagahapon,Animal Bite Category 3,62,136,89,37.8,97,76,18
+presented after rat bite with puncture wound today / nagpakita pagkahuman sa rat bite with puncture wound karon,Animal Bite Category 3,35,121,67,37.4,86,82,18
+reports rat bite with puncture wound this morning / nag-report og rat bite with puncture wound karon buntag,Animal Bite Category 3,8,110,60,38.1,19,100,27
+complains of rat bite with puncture wound last night / nagreklamo og rat bite with puncture wound kagabii,Animal Bite Category 3,27,125,74,36.5,76,80,13
+came with rat bite with puncture wound yesterday / miabot nga adunay rat bite with puncture wound kagahapon,Animal Bite Category 3,54,130,75,38.0,62,88,19
+complains of rat bite with puncture wound this morning / nagreklamo og rat bite with puncture wound karon buntag,Animal Bite Category 3,77,130,85,36.4,68,73,15
+reports rat bite with puncture wound this morning / nag-report og rat bite with puncture wound karon buntag,Animal Bite Category 3,50,135,83,38.1,74,74,12
+complains of rat bite with puncture wound today / nagreklamo og rat bite with puncture wound karon,Animal Bite Category 3,27,113,70,37.5,78,63,18
+presented after rat bite with puncture wound this morning / nagpakita pagkahuman sa rat bite with puncture wound karon buntag,Animal Bite Category 3,49,110,83,37.7,100,67,12
+presented after rat bite with puncture wound yesterday / nagpakita pagkahuman sa rat bite with puncture wound kagahapon,Animal Bite Category 3,17,112,71,36.8,108,72,16
+presented after rat bite with puncture wound yesterday / nagpakita pagkahuman sa rat bite with puncture wound kagahapon,Animal Bite Category 3,57,132,71,37.7,69,73,16
+presented after rat bite with puncture wound yesterday / nagpakita pagkahuman sa rat bite with puncture wound kagahapon,Animal Bite Category 3,54,130,69,38.2,75,61,16
+came with rat bite with puncture wound this morning / miabot nga adunay rat bite with puncture wound karon buntag,Animal Bite Category 3,49,123,85,36.3,62,89,13
+reports rat bite with puncture wound 2 hours ago / nag-report og rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,29,127,77,36.4,52,87,16
+came with rat bite with puncture wound this morning / miabot nga adunay rat bite with puncture wound karon buntag,Animal Bite Category 3,32,120,76,36.8,93,62,12
+presented after rat bite with puncture wound 2 hours ago / nagpakita pagkahuman sa rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,49,109,82,36.8,109,62,14
+reports rat bite with puncture wound 2 hours ago / nag-report og rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,61,118,62,37.0,61,75,20
+presented after rat bite with puncture wound 2 hours ago / nagpakita pagkahuman sa rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,7,94,70,38.0,44,107,24
+came with rat bite with puncture wound this morning / miabot nga adunay rat bite with puncture wound karon buntag,Animal Bite Category 3,35,124,73,37.1,66,93,17
+complains of rat bite with puncture wound yesterday / nagreklamo og rat bite with puncture wound kagahapon,Animal Bite Category 3,21,122,85,36.7,51,88,12
+presented after rat bite with puncture wound today / nagpakita pagkahuman sa rat bite with puncture wound karon,Animal Bite Category 3,6,105,63,37.4,43,85,27
+reports rat bite with puncture wound 2 hours ago / nag-report og rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,58,116,82,37.2,63,91,19
+complains of rat bite with puncture wound last night / nagreklamo og rat bite with puncture wound kagabii,Animal Bite Category 3,13,111,74,37.7,79,71,14
+reports rat bite with puncture wound 2 hours ago / nag-report og rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,2,106,60,37.0,30,93,21
+reports rat bite with puncture wound 2 hours ago / nag-report og rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,5,99,58,37.7,45,92,25
+reports rat bite with puncture wound 2 hours ago / nag-report og rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,21,105,67,37.2,79,89,19
+came with rat bite with puncture wound 2 hours ago / miabot nga adunay rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,7,110,69,36.9,16,90,22
+presented after rat bite with puncture wound today / nagpakita pagkahuman sa rat bite with puncture wound karon,Animal Bite Category 3,9,92,67,37.0,22,82,26
+complains of rat bite with puncture wound today / nagreklamo og rat bite with puncture wound karon,Animal Bite Category 3,4,96,60,37.1,39,92,26
+came with rat bite with puncture wound last night / miabot nga adunay rat bite with puncture wound kagabii,Animal Bite Category 3,40,120,78,37.0,57,79,14
+reports rat bite with puncture wound this morning / nag-report og rat bite with puncture wound karon buntag,Animal Bite Category 3,27,120,79,36.8,99,84,19
+came with rat bite with puncture wound this morning / miabot nga adunay rat bite with puncture wound karon buntag,Animal Bite Category 3,49,124,70,36.5,110,87,18
+came with rat bite with puncture wound this morning / miabot nga adunay rat bite with puncture wound karon buntag,Animal Bite Category 3,30,125,69,37.5,55,91,20
+complains of rat bite with puncture wound last night / nagreklamo og rat bite with puncture wound kagabii,Animal Bite Category 3,57,107,80,38.2,83,79,14
+reports rat bite with puncture wound last night / nag-report og rat bite with puncture wound kagabii,Animal Bite Category 3,56,114,83,36.4,50,63,20
+reports rat bite with puncture wound today / nag-report og rat bite with puncture wound karon,Animal Bite Category 3,56,118,68,37.0,55,89,16
+came with rat bite with puncture wound 2 hours ago / miabot nga adunay rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,61,121,85,36.3,71,66,18
+complains of rat bite with puncture wound yesterday / nagreklamo og rat bite with puncture wound kagahapon,Animal Bite Category 3,77,139,84,37.7,66,83,21
+reports rat bite with puncture wound this morning / nag-report og rat bite with puncture wound karon buntag,Animal Bite Category 3,25,107,84,37.1,47,76,13
+came with rat bite with puncture wound last night / miabot nga adunay rat bite with puncture wound kagabii,Animal Bite Category 3,16,105,70,37.6,107,90,19
+reports rat bite with puncture wound yesterday / nag-report og rat bite with puncture wound kagahapon,Animal Bite Category 3,80,133,82,36.4,53,80,16
+complains of rat bite with puncture wound this morning / nagreklamo og rat bite with puncture wound karon buntag,Animal Bite Category 3,16,131,65,36.7,63,72,12
+reports rat bite with puncture wound today / nag-report og rat bite with puncture wound karon,Animal Bite Category 3,70,122,62,36.5,72,74,19
+complains of rat bite with puncture wound yesterday / nagreklamo og rat bite with puncture wound kagahapon,Animal Bite Category 3,23,133,69,37.2,102,88,19
+presented after rat bite with puncture wound this morning / nagpakita pagkahuman sa rat bite with puncture wound karon buntag,Animal Bite Category 3,39,123,77,36.3,100,63,17
+presented after rat bite with puncture wound last night / nagpakita pagkahuman sa rat bite with puncture wound kagabii,Animal Bite Category 3,76,148,83,36.3,70,90,16
+reports rat bite with puncture wound this morning / nag-report og rat bite with puncture wound karon buntag,Animal Bite Category 3,77,149,89,37.5,78,86,15
+presented after rat bite with puncture wound today / nagpakita pagkahuman sa rat bite with puncture wound karon,Animal Bite Category 3,75,130,77,37.8,71,59,16
+complains of rat bite with puncture wound 2 hours ago / nagreklamo og rat bite with puncture wound 2 ka oras na ang milabay,Animal Bite Category 3,65,149,90,37.5,46,77,19

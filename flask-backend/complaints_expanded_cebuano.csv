@@ -1,0 +1,301 @@
+complaint,diagnosis,age,systolic_bp,diastolic_bp,temperature_c,weight_kg,heart_rate_bpm,resp_rate_cpm
+patient reports fever and cough after exercise / nag-report ang pasyente og hilanat ug ubo pagkahuman og ehersisyo,Influenza,82,117,60,36.6,92,72,15
+experiencing fever and cough for 2 days / nakasinati og hilanat ug ubo sulod sa 2 ka adlaw,Bronchitis,76,137,61,36.6,77,56,13
+patient reports fever and cough sudden onset / nag-report ang pasyente og hilanat ug ubo nga kalit lang,Bronchitis,26,127,85,36.7,80,94,18
+patient reports fever and cough for a week / nag-report ang pasyente og hilanat ug ubo sulod sa usa ka semana,Viral Upper Respiratory Infection,55,115,73,38.1,88,69,15
+with fever and cough for a week / adunay hilanat ug ubo sulod sa usa ka semana,Bronchitis,13,116,76,37.7,60,76,12
+complains of fever and cough worse at night / nagreklamo og hilanat ug ubo nga mas grabe sa gabii,Influenza,38,131,85,37.6,50,83,15
+complains of fever and cough with mild chills / nagreklamo og hilanat ug ubo nga adunay kaguol,Viral Upper Respiratory Infection,30,132,68,37.2,91,84,16
+complains of fever and cough no vomiting / nagreklamo og hilanat ug ubo walay pagsuka,Viral Upper Respiratory Infection,27,126,73,37.3,76,64,14
+complains of fever and cough for 2 days / nagreklamo og hilanat ug ubo sulod sa 2 ka adlaw,Viral Upper Respiratory Infection,35,134,85,37.6,52,95,15
+with fever and cough no vomiting / adunay hilanat ug ubo walay pagsuka,Influenza,52,113,67,36.7,108,73,17
+experiencing fever and cough with nausea / nakasinati og hilanat ug ubo nga adunay pagkaluya sa tiyan,Viral Upper Respiratory Infection,34,109,72,36.8,99,95,20
+complains of fever and cough sudden onset / nagreklamo og hilanat ug ubo nga kalit lang,Bronchitis,29,109,81,37.7,59,91,13
+experiencing fever and cough worse at night / nakasinati og hilanat ug ubo nga mas grabe sa gabii,Bronchitis,55,124,67,37.4,104,84,18
+complains of fever and cough no vomiting / nagreklamo og hilanat ug ubo walay pagsuka,Influenza,2,93,63,36.7,28,104,25
+experiencing fever and cough at rest / nakasinati og hilanat ug ubo samtang nagpahulay,Influenza,34,121,70,38.0,83,92,13
+with fever and cough for 2 days / adunay hilanat ug ubo sulod sa 2 ka adlaw,Influenza,20,116,70,38.0,86,94,20
+patient reports fever and cough no vomiting / nag-report ang pasyente og hilanat ug ubo walay pagsuka,Influenza,47,133,74,36.8,55,75,12
+experiencing fever and cough with nausea / nakasinati og hilanat ug ubo nga adunay pagkaluya sa tiyan,Influenza,69,118,64,36.5,78,85,20
+noted fever and cough no vomiting / nakit-an nga adunay hilanat ug ubo walay pagsuka,Bronchitis,70,122,82,38.0,86,74,18
+experiencing fever and cough gradual onset / nakasinati og hilanat ug ubo nga hinay-hinay,Influenza,58,108,72,36.9,74,74,13
+noted fever and cough for a week / nakit-an nga adunay hilanat ug ubo sulod sa usa ka semana,Bronchitis,10,110,56,38.3,42,87,21
+complains of fever and cough no vomiting / nagreklamo og hilanat ug ubo walay pagsuka,Viral Upper Respiratory Infection,31,113,80,36.6,105,73,20
+patient reports fever and cough for a week / nag-report ang pasyente og hilanat ug ubo sulod sa usa ka semana,Influenza,25,108,68,37.1,104,87,17
+complains of fever and cough with nausea / nagreklamo og hilanat ug ubo nga adunay pagkaluya sa tiyan,Influenza,52,128,75,36.7,102,66,15
+patient reports fever and cough after exercise / nag-report ang pasyente og hilanat ug ubo pagkahuman og ehersisyo,Influenza,36,119,72,37.8,57,64,19
+with fever and cough for 2 days / adunay hilanat ug ubo sulod sa 2 ka adlaw,Influenza,12,134,72,37.2,72,70,18
+complains of fever and cough gradual onset / nagreklamo og hilanat ug ubo nga hinay-hinay,Viral Upper Respiratory Infection,49,105,77,36.8,107,76,19
+patient reports fever and cough at rest / nag-report ang pasyente og hilanat ug ubo samtang nagpahulay,Viral Upper Respiratory Infection,28,135,66,37.7,52,94,12
+patient reports fever and cough at rest / nag-report ang pasyente og hilanat ug ubo samtang nagpahulay,Influenza,65,143,65,36.3,56,58,20
+patient reports fever and cough at rest / nag-report ang pasyente og hilanat ug ubo samtang nagpahulay,Influenza,87,125,72,36.6,83,62,21
+noted chest pain gradual onset / nakit-an nga adunay sakit sa dughan nga hinay-hinay,Acute Coronary Syndrome,54,126,83,38.1,71,93,17
+patient reports chest pain no vomiting / nag-report ang pasyente og sakit sa dughan walay pagsuka,Costochondritis,51,109,85,36.9,54,79,19
+noted chest pain for a week / nakit-an nga adunay sakit sa dughan sulod sa usa ka semana,Stable Angina,73,116,62,37.1,53,89,15
+experiencing chest pain worse at night / nakasinati og sakit sa dughan nga mas grabe sa gabii,Costochondritis,48,114,70,37.6,46,88,20
+noted chest pain worse at night / nakit-an nga adunay sakit sa dughan nga mas grabe sa gabii,Costochondritis,14,135,69,38.0,64,76,13
+patient reports chest pain for a week / nag-report ang pasyente og sakit sa dughan sulod sa usa ka semana,Costochondritis,27,127,75,37.3,77,73,16
+noted chest pain sudden onset / nakit-an nga adunay sakit sa dughan nga kalit lang,Costochondritis,55,131,73,36.9,61,62,12
+experiencing chest pain for 2 days / nakasinati og sakit sa dughan sulod sa 2 ka adlaw,Acute Coronary Syndrome,57,122,78,36.5,64,95,12
+patient reports chest pain with mild chills / nag-report ang pasyente og sakit sa dughan nga adunay kaguol,Stable Angina,75,145,64,36.3,68,82,14
+with chest pain at rest / adunay sakit sa dughan samtang nagpahulay,Costochondritis,88,125,81,37.6,100,61,17
+complains of chest pain with mild chills / nagreklamo og sakit sa dughan nga adunay kaguol,Acute Coronary Syndrome,20,134,72,38.0,48,70,14
+with chest pain gradual onset / adunay sakit sa dughan nga hinay-hinay,Stable Angina,86,125,68,36.9,47,65,13
+with chest pain with mild chills / adunay sakit sa dughan nga adunay kaguol,Acute Coronary Syndrome,59,116,74,36.3,69,74,15
+experiencing chest pain with mild chills / nakasinati og sakit sa dughan nga adunay kaguol,Stable Angina,9,98,66,37.3,41,100,28
+noted chest pain with mild chills / nakit-an nga adunay sakit sa dughan nga adunay kaguol,Acute Coronary Syndrome,15,133,73,36.4,100,71,16
+with chest pain for 2 days / adunay sakit sa dughan sulod sa 2 ka adlaw,Costochondritis,78,142,63,36.5,47,79,21
+experiencing chest pain with mild chills / nakasinati og sakit sa dughan nga adunay kaguol,Costochondritis,69,122,71,37.9,66,82,13
+with chest pain worse at night / adunay sakit sa dughan nga mas grabe sa gabii,Costochondritis,16,128,74,37.6,86,92,16
+with chest pain after exercise / adunay sakit sa dughan pagkahuman og ehersisyo,Stable Angina,17,111,78,37.5,83,84,14
+complains of chest pain after exercise / nagreklamo og sakit sa dughan pagkahuman og ehersisyo,Acute Coronary Syndrome,39,114,71,37.2,101,87,17
+patient reports chest pain gradual onset / nag-report ang pasyente og sakit sa dughan nga hinay-hinay,Costochondritis,22,126,67,37.6,87,78,20
+experiencing chest pain for a week / nakasinati og sakit sa dughan sulod sa usa ka semana,Acute Coronary Syndrome,40,112,71,36.4,105,69,12
+complains of chest pain for 2 days / nagreklamo og sakit sa dughan sulod sa 2 ka adlaw,Stable Angina,54,133,85,37.2,76,72,18
+patient reports chest pain no vomiting / nag-report ang pasyente og sakit sa dughan walay pagsuka,Stable Angina,55,112,70,36.4,76,93,19
+experiencing chest pain with nausea / nakasinati og sakit sa dughan nga adunay pagkaluya sa tiyan,Costochondritis,60,143,77,37.3,91,75,19
+noted chest pain after exercise / nakit-an nga adunay sakit sa dughan pagkahuman og ehersisyo,Acute Coronary Syndrome,58,133,70,36.8,76,90,19
+noted chest pain with mild chills / nakit-an nga adunay sakit sa dughan nga adunay kaguol,Acute Coronary Syndrome,81,125,68,37.5,60,83,13
+complains of chest pain for a week / nagreklamo og sakit sa dughan sulod sa usa ka semana,Acute Coronary Syndrome,70,115,64,36.9,54,64,15
+with chest pain at rest / adunay sakit sa dughan samtang nagpahulay,Costochondritis,53,115,82,36.4,98,89,18
+with chest pain with nausea / adunay sakit sa dughan nga adunay pagkaluya sa tiyan,Costochondritis,3,108,67,38.4,24,95,20
+with headache and dizziness for 2 days / adunay sakit sa ulo ug pagkaluya sulod sa 2 ka adlaw,Tension Headache,70,148,88,36.6,72,69,19
+with headache and dizziness at rest / adunay sakit sa ulo ug pagkaluya samtang nagpahulay,Hypertensive Urgency,44,126,77,38.0,48,70,19
+patient reports headache and dizziness worse at night / nag-report ang pasyente og sakit sa ulo ug pagkaluya nga mas grabe sa gabii,Tension Headache,85,111,62,37.8,56,82,14
+noted headache and dizziness with nausea / nakit-an nga adunay sakit sa ulo ug pagkaluya nga adunay pagkaluya sa tiyan,Tension Headache,42,111,79,37.7,93,80,17
+noted headache and dizziness gradual onset / nakit-an nga adunay sakit sa ulo ug pagkaluya nga hinay-hinay,Hypertensive Urgency,11,105,55,36.6,45,103,28
+patient reports headache and dizziness at rest / nag-report ang pasyente og sakit sa ulo ug pagkaluya samtang nagpahulay,Migraine,9,110,56,38.4,21,104,20
+noted headache and dizziness sudden onset / nakit-an nga adunay sakit sa ulo ug pagkaluya nga kalit lang,Hypertensive Urgency,31,109,80,37.2,77,67,15
+noted headache and dizziness at rest / nakit-an nga adunay sakit sa ulo ug pagkaluya samtang nagpahulay,Hypertensive Urgency,78,117,84,36.4,46,65,16
+experiencing headache and dizziness for a week / nakasinati og sakit sa ulo ug pagkaluya sulod sa usa ka semana,Hypertensive Urgency,49,117,71,36.5,83,64,15
+noted headache and dizziness for 2 days / nakit-an nga adunay sakit sa ulo ug pagkaluya sulod sa 2 ka adlaw,Tension Headache,6,101,68,36.6,35,101,25
+complains of headache and dizziness with nausea / nagreklamo og sakit sa ulo ug pagkaluya nga adunay pagkaluya sa tiyan,Migraine,63,116,73,37.8,74,78,22
+experiencing headache and dizziness worse at night / nakasinati og sakit sa ulo ug pagkaluya nga mas grabe sa gabii,Tension Headache,67,127,79,37.0,97,89,19
+experiencing headache and dizziness at rest / nakasinati og sakit sa ulo ug pagkaluya samtang nagpahulay,Hypertensive Urgency,32,131,67,36.8,104,77,19
+noted headache and dizziness worse at night / nakit-an nga adunay sakit sa ulo ug pagkaluya nga mas grabe sa gabii,Tension Headache,49,115,65,36.6,72,91,17
+patient reports headache and dizziness gradual onset / nag-report ang pasyente og sakit sa ulo ug pagkaluya nga hinay-hinay,Hypertensive Urgency,36,133,84,36.3,69,77,20
+with headache and dizziness for 2 days / adunay sakit sa ulo ug pagkaluya sulod sa 2 ka adlaw,Migraine,53,120,82,37.5,107,75,19
+with headache and dizziness after exercise / adunay sakit sa ulo ug pagkaluya pagkahuman og ehersisyo,Hypertensive Urgency,38,112,77,37.6,92,75,16
+noted headache and dizziness worse at night / nakit-an nga adunay sakit sa ulo ug pagkaluya nga mas grabe sa gabii,Migraine,45,118,82,37.6,79,81,17
+complains of headache and dizziness gradual onset / nagreklamo og sakit sa ulo ug pagkaluya nga hinay-hinay,Hypertensive Urgency,16,128,71,37.7,68,80,13
+complains of headache and dizziness worse at night / nagreklamo og sakit sa ulo ug pagkaluya nga mas grabe sa gabii,Migraine,62,127,83,36.7,51,88,21
+patient reports headache and dizziness after exercise / nag-report ang pasyente og sakit sa ulo ug pagkaluya pagkahuman og ehersisyo,Tension Headache,47,110,74,36.5,50,60,20
+noted headache and dizziness no vomiting / nakit-an nga adunay sakit sa ulo ug pagkaluya walay pagsuka,Tension Headache,90,118,80,37.8,81,86,13
+patient reports headache and dizziness for a week / nag-report ang pasyente og sakit sa ulo ug pagkaluya sulod sa usa ka semana,Tension Headache,57,115,70,38.1,106,63,16
+noted headache and dizziness for a week / nakit-an nga adunay sakit sa ulo ug pagkaluya sulod sa usa ka semana,Migraine,63,114,78,36.5,81,58,14
+noted headache and dizziness at rest / nakit-an nga adunay sakit sa ulo ug pagkaluya samtang nagpahulay,Tension Headache,16,122,78,37.0,101,74,20
+complains of headache and dizziness worse at night / nagreklamo og sakit sa ulo ug pagkaluya nga mas grabe sa gabii,Hypertensive Urgency,40,123,84,38.1,71,63,13
+with headache and dizziness no vomiting / adunay sakit sa ulo ug pagkaluya walay pagsuka,Hypertensive Urgency,11,95,62,36.7,15,85,28
+with headache and dizziness for a week / adunay sakit sa ulo ug pagkaluya sulod sa usa ka semana,Hypertensive Urgency,77,140,69,36.7,63,57,15
+complains of headache and dizziness worse at night / nagreklamo og sakit sa ulo ug pagkaluya nga mas grabe sa gabii,Migraine,30,134,73,36.5,73,72,18
+experiencing headache and dizziness worse at night / nakasinati og sakit sa ulo ug pagkaluya nga mas grabe sa gabii,Tension Headache,10,91,60,37.7,41,105,24
+with stomach pain after eating for a week / adunay sakit sa tiyan pagkahuman og kaon sulod sa usa ka semana,Peptic Ulcer Disease,16,119,74,37.3,108,85,16
+experiencing stomach pain after eating at rest / nakasinati og sakit sa tiyan pagkahuman og kaon samtang nagpahulay,Gastritis,6,103,65,36.6,22,99,24
+with stomach pain after eating worse at night / adunay sakit sa tiyan pagkahuman og kaon nga mas grabe sa gabii,Gastritis,87,127,78,37.0,86,57,14
+noted stomach pain after eating with mild chills / nakit-an nga adunay sakit sa tiyan pagkahuman og kaon nga adunay kaguol,Peptic Ulcer Disease,75,137,80,37.0,71,86,13
+with stomach pain after eating after exercise / adunay sakit sa tiyan pagkahuman og kaon pagkahuman og ehersisyo,Gastritis,14,132,70,37.6,81,81,18
+experiencing stomach pain after eating for 2 days / nakasinati og sakit sa tiyan pagkahuman og kaon sulod sa 2 ka adlaw,Peptic Ulcer Disease,59,107,75,36.5,96,76,17
+with stomach pain after eating no vomiting / adunay sakit sa tiyan pagkahuman og kaon walay pagsuka,Gastritis,70,139,73,37.1,84,58,15
+patient reports stomach pain after eating for 2 days / nag-report ang pasyente og sakit sa tiyan pagkahuman og kaon sulod sa 2 ka adlaw,Peptic Ulcer Disease,27,113,82,37.1,107,68,16
+with stomach pain after eating for a week / adunay sakit sa tiyan pagkahuman og kaon sulod sa usa ka semana,Gastritis,78,125,82,37.2,80,65,16
+experiencing stomach pain after eating worse at night / nakasinati og sakit sa tiyan pagkahuman og kaon nga mas grabe sa gabii,Gastroesophageal Reflux Disease,15,119,68,38.1,82,69,19
+experiencing stomach pain after eating after exercise / nakasinati og sakit sa tiyan pagkahuman og kaon pagkahuman og ehersisyo,Peptic Ulcer Disease,62,140,67,36.5,57,84,20
+noted stomach pain after eating for 2 days / nakit-an nga adunay sakit sa tiyan pagkahuman og kaon sulod sa 2 ka adlaw,Gastroesophageal Reflux Disease,18,132,67,36.9,109,77,18
+noted stomach pain after eating with mild chills / nakit-an nga adunay sakit sa tiyan pagkahuman og kaon nga adunay kaguol,Peptic Ulcer Disease,39,131,83,37.1,106,91,14
+experiencing stomach pain after eating with nausea / nakasinati og sakit sa tiyan pagkahuman og kaon nga adunay pagkaluya sa tiyan,Gastritis,70,134,74,38.0,60,75,15
+with stomach pain after eating for 2 days / adunay sakit sa tiyan pagkahuman og kaon sulod sa 2 ka adlaw,Gastritis,53,106,75,37.0,64,90,18
+patient reports stomach pain after eating sudden onset / nag-report ang pasyente og sakit sa tiyan pagkahuman og kaon nga kalit lang,Gastroesophageal Reflux Disease,65,147,70,36.4,74,61,19
+with stomach pain after eating for a week / adunay sakit sa tiyan pagkahuman og kaon sulod sa usa ka semana,Gastroesophageal Reflux Disease,84,119,62,36.8,89,85,16
+with stomach pain after eating after exercise / adunay sakit sa tiyan pagkahuman og kaon pagkahuman og ehersisyo,Gastritis,87,144,72,37.5,93,75,22
+patient reports stomach pain after eating for a week / nag-report ang pasyente og sakit sa tiyan pagkahuman og kaon sulod sa usa ka semana,Gastroesophageal Reflux Disease,80,114,67,37.5,72,73,15
+noted stomach pain after eating with mild chills / nakit-an nga adunay sakit sa tiyan pagkahuman og kaon nga adunay kaguol,Gastroesophageal Reflux Disease,22,127,74,36.9,52,61,12
+complains of stomach pain after eating sudden onset / nagreklamo og sakit sa tiyan pagkahuman og kaon nga kalit lang,Gastritis,56,109,72,37.4,68,93,18
+complains of stomach pain after eating no vomiting / nagreklamo og sakit sa tiyan pagkahuman og kaon walay pagsuka,Peptic Ulcer Disease,79,134,79,37.8,54,70,19
+patient reports stomach pain after eating no vomiting / nag-report ang pasyente og sakit sa tiyan pagkahuman og kaon walay pagsuka,Gastroesophageal Reflux Disease,33,119,73,38.0,65,60,19
+complains of stomach pain after eating with nausea / nagreklamo og sakit sa tiyan pagkahuman og kaon nga adunay pagkaluya sa tiyan,Gastroesophageal Reflux Disease,76,129,80,37.0,64,82,16
+patient reports stomach pain after eating with nausea / nag-report ang pasyente og sakit sa tiyan pagkahuman og kaon nga adunay pagkaluya sa tiyan,Gastroesophageal Reflux Disease,14,112,77,38.2,82,82,16
+noted stomach pain after eating gradual onset / nakit-an nga adunay sakit sa tiyan pagkahuman og kaon nga hinay-hinay,Peptic Ulcer Disease,2,108,56,38.2,43,109,27
+patient reports stomach pain after eating for 2 days / nag-report ang pasyente og sakit sa tiyan pagkahuman og kaon sulod sa 2 ka adlaw,Gastroesophageal Reflux Disease,46,112,85,37.6,62,72,16
+noted stomach pain after eating with nausea / nakit-an nga adunay sakit sa tiyan pagkahuman og kaon nga adunay pagkaluya sa tiyan,Gastritis,57,106,83,36.5,82,83,14
+complains of stomach pain after eating worse at night / nagreklamo og sakit sa tiyan pagkahuman og kaon nga mas grabe sa gabii,Gastroesophageal Reflux Disease,26,109,82,37.3,79,83,20
+complains of stomach pain after eating with nausea / nagreklamo og sakit sa tiyan pagkahuman og kaon nga adunay pagkaluya sa tiyan,Peptic Ulcer Disease,38,128,75,38.1,63,67,19
+noted shortness of breath worse at night / nakit-an nga adunay lisod ginhawa nga mas grabe sa gabii,COPD Exacerbation,47,107,77,37.3,103,60,16
+patient reports shortness of breath at rest / nag-report ang pasyente og lisod ginhawa samtang nagpahulay,COPD Exacerbation,49,131,85,37.6,105,83,13
+noted shortness of breath with nausea / nakit-an nga adunay lisod ginhawa nga adunay pagkaluya sa tiyan,Asthma Exacerbation,42,134,84,37.5,104,74,13
+experiencing shortness of breath sudden onset / nakasinati og lisod ginhawa nga kalit lang,Community-acquired Pneumonia,18,106,66,36.5,75,79,19
+with shortness of breath at rest / adunay lisod ginhawa samtang nagpahulay,Community-acquired Pneumonia,59,116,82,38.0,57,86,14
+noted shortness of breath for a week / nakit-an nga adunay lisod ginhawa sulod sa usa ka semana,COPD Exacerbation,36,106,76,37.1,75,73,19
+patient reports shortness of breath no vomiting / nag-report ang pasyente og lisod ginhawa walay pagsuka,Asthma Exacerbation,48,122,85,37.1,69,82,12
+complains of shortness of breath at rest / nagreklamo og lisod ginhawa samtang nagpahulay,Asthma Exacerbation,85,123,80,37.6,60,56,12
+noted shortness of breath sudden onset / nakit-an nga adunay lisod ginhawa nga kalit lang,COPD Exacerbation,9,107,61,38.1,22,98,23
+patient reports shortness of breath for 2 days / nag-report ang pasyente og lisod ginhawa sulod sa 2 ka adlaw,Asthma Exacerbation,1,98,59,37.0,20,84,28
+patient reports shortness of breath sudden onset / nag-report ang pasyente og lisod ginhawa nga kalit lang,COPD Exacerbation,2,101,62,36.5,23,98,25
+experiencing shortness of breath at rest / nakasinati og lisod ginhawa samtang nagpahulay,Asthma Exacerbation,54,121,68,37.2,91,64,19
+patient reports shortness of breath no vomiting / nag-report ang pasyente og lisod ginhawa walay pagsuka,Community-acquired Pneumonia,58,121,72,36.9,48,62,20
+noted shortness of breath at rest / nakit-an nga adunay lisod ginhawa samtang nagpahulay,Asthma Exacerbation,55,126,68,36.4,55,91,19
+experiencing shortness of breath after exercise / nakasinati og lisod ginhawa pagkahuman og ehersisyo,Community-acquired Pneumonia,9,94,63,37.9,27,99,28
+experiencing shortness of breath gradual onset / nakasinati og lisod ginhawa nga hinay-hinay,Community-acquired Pneumonia,59,121,84,37.8,59,87,13
+with shortness of breath for a week / adunay lisod ginhawa sulod sa usa ka semana,Community-acquired Pneumonia,58,133,72,37.9,96,86,17
+patient reports shortness of breath for a week / nag-report ang pasyente og lisod ginhawa sulod sa usa ka semana,Asthma Exacerbation,55,115,73,37.6,105,83,14
+patient reports shortness of breath with nausea / nag-report ang pasyente og lisod ginhawa nga adunay pagkaluya sa tiyan,Community-acquired Pneumonia,12,118,68,37.4,87,83,14
+patient reports shortness of breath at rest / nag-report ang pasyente og lisod ginhawa samtang nagpahulay,COPD Exacerbation,86,137,87,37.3,67,58,16
+patient reports shortness of breath worse at night / nag-report ang pasyente og lisod ginhawa nga mas grabe sa gabii,COPD Exacerbation,28,109,80,37.0,92,74,13
+patient reports shortness of breath sudden onset / nag-report ang pasyente og lisod ginhawa nga kalit lang,Community-acquired Pneumonia,29,130,78,36.3,79,95,20
+complains of shortness of breath at rest / nagreklamo og lisod ginhawa samtang nagpahulay,COPD Exacerbation,90,129,89,36.2,100,76,17
+with shortness of breath with nausea / adunay lisod ginhawa nga adunay pagkaluya sa tiyan,Community-acquired Pneumonia,52,107,69,37.7,72,61,13
+patient reports shortness of breath sudden onset / nag-report ang pasyente og lisod ginhawa nga kalit lang,Asthma Exacerbation,44,110,76,37.8,55,79,17
+with shortness of breath at rest / adunay lisod ginhawa samtang nagpahulay,Community-acquired Pneumonia,80,113,81,37.0,72,60,16
+noted shortness of breath at rest / nakit-an nga adunay lisod ginhawa samtang nagpahulay,Community-acquired Pneumonia,54,113,71,37.0,59,92,13
+patient reports shortness of breath gradual onset / nag-report ang pasyente og lisod ginhawa nga hinay-hinay,Community-acquired Pneumonia,68,129,61,38.0,48,69,18
+with shortness of breath with nausea / adunay lisod ginhawa nga adunay pagkaluya sa tiyan,Asthma Exacerbation,28,129,69,36.9,45,76,16
+patient reports shortness of breath with nausea / nag-report ang pasyente og lisod ginhawa nga adunay pagkaluya sa tiyan,COPD Exacerbation,17,117,82,37.4,90,74,20
+with rash on skin at rest / adunay pantal sa panit samtang nagpahulay,Urticaria,6,103,55,38.2,33,94,21
+complains of rash on skin at rest / nagreklamo og pantal sa panit samtang nagpahulay,Urticaria,82,136,69,36.2,65,62,18
+with rash on skin after exercise / adunay pantal sa panit pagkahuman og ehersisyo,Allergic Dermatitis,89,133,62,36.6,82,82,13
+patient reports rash on skin after exercise / nag-report ang pasyente og pantal sa panit pagkahuman og ehersisyo,Cellulitis,51,132,74,36.9,66,81,15
+complains of rash on skin for a week / nagreklamo og pantal sa panit sulod sa usa ka semana,Allergic Dermatitis,15,121,81,37.0,63,72,17
+with rash on skin at rest / adunay pantal sa panit samtang nagpahulay,Cellulitis,33,111,70,36.6,108,69,13
+with rash on skin no vomiting / adunay pantal sa panit walay pagsuka,Cellulitis,58,126,83,36.6,53,80,17
+with rash on skin no vomiting / adunay pantal sa panit walay pagsuka,Allergic Dermatitis,39,130,73,37.3,84,63,17
+with rash on skin no vomiting / adunay pantal sa panit walay pagsuka,Cellulitis,8,101,64,37.7,31,82,21
+complains of rash on skin for 2 days / nagreklamo og pantal sa panit sulod sa 2 ka adlaw,Urticaria,71,112,74,37.3,77,67,17
+complains of rash on skin no vomiting / nagreklamo og pantal sa panit walay pagsuka,Urticaria,14,130,75,37.5,50,65,20
+with rash on skin with nausea / adunay pantal sa panit nga adunay pagkaluya sa tiyan,Urticaria,68,143,79,36.9,63,65,17
+with rash on skin worse at night / adunay pantal sa panit nga mas grabe sa gabii,Urticaria,87,148,61,36.8,80,76,13
+complains of rash on skin with mild chills / nagreklamo og pantal sa panit nga adunay kaguol,Urticaria,85,148,87,36.3,87,64,17
+noted rash on skin sudden onset / nakit-an nga adunay pantal sa panit nga kalit lang,Cellulitis,84,135,64,37.2,86,60,16
+noted rash on skin sudden onset / nakit-an nga adunay pantal sa panit nga kalit lang,Allergic Dermatitis,90,143,62,36.9,68,82,20
+patient reports rash on skin worse at night / nag-report ang pasyente og pantal sa panit nga mas grabe sa gabii,Allergic Dermatitis,44,135,80,38.2,64,72,15
+experiencing rash on skin sudden onset / nakasinati og pantal sa panit nga kalit lang,Cellulitis,65,144,86,37.4,94,88,12
+with rash on skin with mild chills / adunay pantal sa panit nga adunay kaguol,Cellulitis,49,109,70,37.7,50,71,14
+noted rash on skin no vomiting / nakit-an nga adunay pantal sa panit walay pagsuka,Allergic Dermatitis,31,119,84,36.7,75,78,19
+experiencing rash on skin after exercise / nakasinati og pantal sa panit pagkahuman og ehersisyo,Urticaria,48,126,83,37.8,93,88,19
+noted rash on skin after exercise / nakit-an nga adunay pantal sa panit pagkahuman og ehersisyo,Allergic Dermatitis,21,131,71,36.4,106,68,16
+complains of rash on skin with nausea / nagreklamo og pantal sa panit nga adunay pagkaluya sa tiyan,Allergic Dermatitis,67,117,69,36.7,77,60,14
+experiencing rash on skin with mild chills / nakasinati og pantal sa panit nga adunay kaguol,Allergic Dermatitis,29,131,79,37.1,95,82,12
+noted rash on skin sudden onset / nakit-an nga adunay pantal sa panit nga kalit lang,Allergic Dermatitis,50,107,76,36.9,57,74,12
+with rash on skin at rest / adunay pantal sa panit samtang nagpahulay,Allergic Dermatitis,5,99,70,38.0,30,102,22
+experiencing rash on skin after exercise / nakasinati og pantal sa panit pagkahuman og ehersisyo,Urticaria,11,90,63,37.6,38,86,22
+with rash on skin at rest / adunay pantal sa panit samtang nagpahulay,Urticaria,15,129,74,36.5,75,75,16
+experiencing rash on skin gradual onset / nakasinati og pantal sa panit nga hinay-hinay,Cellulitis,9,93,70,36.5,31,99,28
+complains of rash on skin for a week / nagreklamo og pantal sa panit sulod sa usa ka semana,Cellulitis,19,114,78,36.8,98,60,17
+experiencing frequent urination for 2 days / nakasinati og kanunay nga pag-ihi sulod sa 2 ka adlaw,Benign Prostatic Hyperplasia,47,107,81,37.8,109,94,20
+noted frequent urination for a week / nakit-an nga adunay kanunay nga pag-ihi sulod sa usa ka semana,Benign Prostatic Hyperplasia,61,112,80,36.7,46,79,17
+experiencing frequent urination with mild chills / nakasinati og kanunay nga pag-ihi nga adunay kaguol,Diabetes Mellitus,31,128,85,36.6,90,66,17
+with frequent urination for 2 days / adunay kanunay nga pag-ihi sulod sa 2 ka adlaw,Benign Prostatic Hyperplasia,23,131,79,37.8,53,90,14
+with frequent urination after exercise / adunay kanunay nga pag-ihi pagkahuman og ehersisyo,Benign Prostatic Hyperplasia,26,106,71,38.1,110,62,17
+noted frequent urination worse at night / nakit-an nga adunay kanunay nga pag-ihi nga mas grabe sa gabii,Urinary Tract Infection,33,106,85,37.0,51,72,16
+with frequent urination no vomiting / adunay kanunay nga pag-ihi walay pagsuka,Benign Prostatic Hyperplasia,48,118,77,36.9,68,88,18
+complains of frequent urination after exercise / nagreklamo og kanunay nga pag-ihi pagkahuman og ehersisyo,Benign Prostatic Hyperplasia,67,127,85,36.3,83,60,18
+complains of frequent urination no vomiting / nagreklamo og kanunay nga pag-ihi walay pagsuka,Benign Prostatic Hyperplasia,42,108,67,36.9,99,80,16
+patient reports frequent urination with nausea / nag-report ang pasyente og kanunay nga pag-ihi nga adunay pagkaluya sa tiyan,Benign Prostatic Hyperplasia,58,106,76,37.5,52,87,16
+with frequent urination for 2 days / adunay kanunay nga pag-ihi sulod sa 2 ka adlaw,Urinary Tract Infection,66,120,90,37.7,88,56,14
+experiencing frequent urination sudden onset / nakasinati og kanunay nga pag-ihi nga kalit lang,Diabetes Mellitus,9,97,66,38.4,16,91,26
+experiencing frequent urination with mild chills / nakasinati og kanunay nga pag-ihi nga adunay kaguol,Benign Prostatic Hyperplasia,58,135,76,37.7,62,83,19
+with frequent urination after exercise / adunay kanunay nga pag-ihi pagkahuman og ehersisyo,Benign Prostatic Hyperplasia,41,125,73,36.3,68,75,13
+noted frequent urination no vomiting / nakit-an nga adunay kanunay nga pag-ihi walay pagsuka,Urinary Tract Infection,72,117,68,36.6,84,71,19
+patient reports frequent urination with mild chills / nag-report ang pasyente og kanunay nga pag-ihi nga adunay kaguol,Diabetes Mellitus,16,109,67,38.0,101,88,14
+complains of frequent urination sudden onset / nagreklamo og kanunay nga pag-ihi nga kalit lang,Benign Prostatic Hyperplasia,45,127,67,36.9,83,95,20
+patient reports frequent urination with mild chills / nag-report ang pasyente og kanunay nga pag-ihi nga adunay kaguol,Diabetes Mellitus,66,124,63,36.6,76,67,14
+patient reports frequent urination worse at night / nag-report ang pasyente og kanunay nga pag-ihi nga mas grabe sa gabii,Benign Prostatic Hyperplasia,74,133,74,37.3,50,90,14
+patient reports frequent urination no vomiting / nag-report ang pasyente og kanunay nga pag-ihi walay pagsuka,Benign Prostatic Hyperplasia,62,143,73,36.3,65,81,21
+complains of frequent urination with nausea / nagreklamo og kanunay nga pag-ihi nga adunay pagkaluya sa tiyan,Diabetes Mellitus,88,143,71,37.4,56,63,20
+complains of frequent urination with mild chills / nagreklamo og kanunay nga pag-ihi nga adunay kaguol,Diabetes Mellitus,8,93,59,36.8,44,89,22
+complains of frequent urination worse at night / nagreklamo og kanunay nga pag-ihi nga mas grabe sa gabii,Diabetes Mellitus,37,132,67,37.5,80,76,15
+complains of frequent urination at rest / nagreklamo og kanunay nga pag-ihi samtang nagpahulay,Diabetes Mellitus,69,115,76,37.9,54,65,21
+experiencing frequent urination worse at night / nakasinati og kanunay nga pag-ihi nga mas grabe sa gabii,Diabetes Mellitus,78,131,86,36.3,86,57,12
+noted frequent urination no vomiting / nakit-an nga adunay kanunay nga pag-ihi walay pagsuka,Urinary Tract Infection,27,129,83,37.2,82,86,12
+with frequent urination with nausea / adunay kanunay nga pag-ihi nga adunay pagkaluya sa tiyan,Benign Prostatic Hyperplasia,88,135,69,37.4,55,84,13
+noted frequent urination with nausea / nakit-an nga adunay kanunay nga pag-ihi nga adunay pagkaluya sa tiyan,Urinary Tract Infection,60,123,70,37.8,65,64,17
+noted frequent urination no vomiting / nakit-an nga adunay kanunay nga pag-ihi walay pagsuka,Urinary Tract Infection,48,121,82,36.8,60,66,17
+complains of frequent urination sudden onset / nagreklamo og kanunay nga pag-ihi nga kalit lang,Benign Prostatic Hyperplasia,19,108,66,37.9,98,78,18
+with sore throat worse at night / adunay sakit sa tutunlan nga mas grabe sa gabii,Acute Bacterial Tonsillitis,74,130,66,38.0,74,65,19
+experiencing sore throat with mild chills / nakasinati og sakit sa tutunlan nga adunay kaguol,Acute Viral Pharyngitis,3,92,67,38.4,21,96,27
+patient reports sore throat with nausea / nag-report ang pasyente og sakit sa tutunlan nga adunay pagkaluya sa tiyan,Acute Viral Pharyngitis,7,99,70,37.1,15,99,27
+experiencing sore throat after exercise / nakasinati og sakit sa tutunlan pagkahuman og ehersisyo,Acute Viral Pharyngitis,34,128,76,36.4,51,85,17
+experiencing sore throat at rest / nakasinati og sakit sa tutunlan samtang nagpahulay,Acute Viral Pharyngitis,47,122,74,37.3,80,64,18
+complains of sore throat gradual onset / nagreklamo og sakit sa tutunlan nga hinay-hinay,Mononucleosis,17,108,77,37.4,91,83,17
+noted sore throat no vomiting / nakit-an nga adunay sakit sa tutunlan walay pagsuka,Mononucleosis,66,135,76,36.3,90,57,12
+complains of sore throat with nausea / nagreklamo og sakit sa tutunlan nga adunay pagkaluya sa tiyan,Mononucleosis,59,109,84,36.9,85,92,14
+with sore throat for 2 days / adunay sakit sa tutunlan sulod sa 2 ka adlaw,Acute Bacterial Tonsillitis,39,123,75,37.3,83,92,20
+experiencing sore throat no vomiting / nakasinati og sakit sa tutunlan walay pagsuka,Acute Bacterial Tonsillitis,43,126,68,37.8,48,86,16
+experiencing sore throat at rest / nakasinati og sakit sa tutunlan samtang nagpahulay,Acute Bacterial Tonsillitis,84,147,78,37.3,55,69,12
+noted sore throat with nausea / nakit-an nga adunay sakit sa tutunlan nga adunay pagkaluya sa tiyan,Acute Viral Pharyngitis,19,131,72,36.7,101,62,13
+patient reports sore throat sudden onset / nag-report ang pasyente og sakit sa tutunlan nga kalit lang,Mononucleosis,53,127,71,37.8,105,86,20
+with sore throat after exercise / adunay sakit sa tutunlan pagkahuman og ehersisyo,Acute Bacterial Tonsillitis,27,122,75,37.0,67,90,20
+noted sore throat after exercise / nakit-an nga adunay sakit sa tutunlan pagkahuman og ehersisyo,Acute Bacterial Tonsillitis,70,132,81,37.1,60,71,21
+noted sore throat no vomiting / nakit-an nga adunay sakit sa tutunlan walay pagsuka,Acute Bacterial Tonsillitis,29,135,74,37.6,107,78,15
+with sore throat with mild chills / adunay sakit sa tutunlan nga adunay kaguol,Acute Viral Pharyngitis,72,127,69,37.4,69,62,21
+with sore throat gradual onset / adunay sakit sa tutunlan nga hinay-hinay,Acute Viral Pharyngitis,38,106,74,38.1,77,65,17
+experiencing sore throat gradual onset / nakasinati og sakit sa tutunlan nga hinay-hinay,Acute Viral Pharyngitis,69,127,89,36.4,84,90,16
+noted sore throat no vomiting / nakit-an nga adunay sakit sa tutunlan walay pagsuka,Acute Viral Pharyngitis,7,106,62,36.6,28,100,23
+with sore throat gradual onset / adunay sakit sa tutunlan nga hinay-hinay,Acute Bacterial Tonsillitis,88,118,60,36.9,75,90,14
+experiencing sore throat for 2 days / nakasinati og sakit sa tutunlan sulod sa 2 ka adlaw,Acute Viral Pharyngitis,42,114,85,37.5,74,63,13
+noted sore throat for 2 days / nakit-an nga adunay sakit sa tutunlan sulod sa 2 ka adlaw,Acute Viral Pharyngitis,54,133,70,37.8,68,62,18
+complains of sore throat after exercise / nagreklamo og sakit sa tutunlan pagkahuman og ehersisyo,Acute Bacterial Tonsillitis,39,123,84,36.8,108,66,17
+complains of sore throat for 2 days / nagreklamo og sakit sa tutunlan sulod sa 2 ka adlaw,Mononucleosis,35,111,68,37.7,77,81,14
+with sore throat after exercise / adunay sakit sa tutunlan pagkahuman og ehersisyo,Acute Bacterial Tonsillitis,44,130,74,37.5,96,72,14
+patient reports sore throat worse at night / nag-report ang pasyente og sakit sa tutunlan nga mas grabe sa gabii,Acute Bacterial Tonsillitis,12,117,68,37.2,76,71,14
+noted sore throat with mild chills / nakit-an nga adunay sakit sa tutunlan nga adunay kaguol,Mononucleosis,31,119,73,37.4,46,81,16
+noted sore throat for a week / nakit-an nga adunay sakit sa tutunlan sulod sa usa ka semana,Mononucleosis,31,106,68,36.6,109,89,16
+complains of sore throat no vomiting / nagreklamo og sakit sa tutunlan walay pagsuka,Mononucleosis,38,116,84,38.1,106,74,15
+complains of joint pain gradual onset / nagreklamo og sakit sa lutahan nga hinay-hinay,Gout,78,133,73,37.6,96,90,19
+experiencing joint pain for a week / nakasinati og sakit sa lutahan sulod sa usa ka semana,Osteoarthritis,77,115,76,37.5,49,83,20
+experiencing joint pain no vomiting / nakasinati og sakit sa lutahan walay pagsuka,Osteoarthritis,71,142,66,36.5,99,89,14
+patient reports joint pain no vomiting / nag-report ang pasyente og sakit sa lutahan walay pagsuka,Osteoarthritis,88,123,82,37.8,73,86,13
+noted joint pain for 2 days / nakit-an nga adunay sakit sa lutahan sulod sa 2 ka adlaw,Rheumatoid Arthritis,66,136,74,37.0,96,58,20
+patient reports joint pain after exercise / nag-report ang pasyente og sakit sa lutahan pagkahuman og ehersisyo,Osteoarthritis,33,131,65,36.4,89,73,13
+with joint pain with mild chills / adunay sakit sa lutahan nga adunay kaguol,Rheumatoid Arthritis,9,105,56,36.9,19,89,26
+noted joint pain for a week / nakit-an nga adunay sakit sa lutahan sulod sa usa ka semana,Osteoarthritis,58,132,77,37.6,62,84,13
+patient reports joint pain worse at night / nag-report ang pasyente og sakit sa lutahan nga mas grabe sa gabii,Rheumatoid Arthritis,69,135,76,37.7,93,63,15
+with joint pain with mild chills / adunay sakit sa lutahan nga adunay kaguol,Osteoarthritis,87,144,73,37.7,60,89,18
+complains of joint pain gradual onset / nagreklamo og sakit sa lutahan nga hinay-hinay,Osteoarthritis,36,111,68,37.5,47,62,18
+with joint pain no vomiting / adunay sakit sa lutahan walay pagsuka,Osteoarthritis,13,124,66,36.8,50,88,12
+complains of joint pain at rest / nagreklamo og sakit sa lutahan samtang nagpahulay,Rheumatoid Arthritis,70,123,84,37.1,63,58,14
+experiencing joint pain gradual onset / nakasinati og sakit sa lutahan nga hinay-hinay,Rheumatoid Arthritis,74,148,84,36.7,54,75,15
+experiencing joint pain no vomiting / nakasinati og sakit sa lutahan walay pagsuka,Osteoarthritis,39,113,66,37.5,99,95,14
+with joint pain sudden onset / adunay sakit sa lutahan nga kalit lang,Rheumatoid Arthritis,45,135,85,36.9,98,84,20
+complains of joint pain no vomiting / nagreklamo og sakit sa lutahan walay pagsuka,Osteoarthritis,49,110,82,37.9,83,90,15
+complains of joint pain worse at night / nagreklamo og sakit sa lutahan nga mas grabe sa gabii,Osteoarthritis,72,136,90,37.2,69,81,20
+patient reports joint pain worse at night / nag-report ang pasyente og sakit sa lutahan nga mas grabe sa gabii,Rheumatoid Arthritis,43,125,67,36.5,69,88,17
+experiencing joint pain after exercise / nakasinati og sakit sa lutahan pagkahuman og ehersisyo,Osteoarthritis,87,148,79,36.5,93,57,13
+complains of joint pain gradual onset / nagreklamo og sakit sa lutahan nga hinay-hinay,Gout,62,123,87,37.9,45,76,16
+experiencing joint pain with mild chills / nakasinati og sakit sa lutahan nga adunay kaguol,Rheumatoid Arthritis,16,128,80,37.1,75,75,15
+with joint pain no vomiting / adunay sakit sa lutahan walay pagsuka,Osteoarthritis,49,119,82,36.8,110,82,16
+experiencing joint pain gradual onset / nakasinati og sakit sa lutahan nga hinay-hinay,Gout,61,130,89,36.8,47,68,17
+noted joint pain gradual onset / nakit-an nga adunay sakit sa lutahan nga hinay-hinay,Rheumatoid Arthritis,19,105,73,36.9,70,95,18
+noted joint pain no vomiting / nakit-an nga adunay sakit sa lutahan walay pagsuka,Gout,73,125,75,37.9,66,90,22
+experiencing joint pain no vomiting / nakasinati og sakit sa lutahan walay pagsuka,Osteoarthritis,83,141,74,36.5,91,65,17
+patient reports joint pain for 2 days / nag-report ang pasyente og sakit sa lutahan sulod sa 2 ka adlaw,Rheumatoid Arthritis,70,113,76,37.9,87,57,13
+complains of joint pain after exercise / nagreklamo og sakit sa lutahan pagkahuman og ehersisyo,Rheumatoid Arthritis,18,131,85,37.6,46,74,13
+patient reports joint pain for 2 days / nag-report ang pasyente og sakit sa lutahan sulod sa 2 ka adlaw,Gout,48,106,84,36.3,97,90,19
+complains of fatigue and weight loss for a week / nagreklamo og kakapoy ug pagkunhod sa timbang sulod sa usa ka semana,Type 2 Diabetes Mellitus,36,122,74,37.8,100,61,20
+noted fatigue and weight loss worse at night / nakit-an nga adunay kakapoy ug pagkunhod sa timbang nga mas grabe sa gabii,Hypothyroidism,68,119,67,37.1,97,67,21
+noted fatigue and weight loss for a week / nakit-an nga adunay kakapoy ug pagkunhod sa timbang sulod sa usa ka semana,Hyperthyroidism,11,101,67,38.5,22,94,23
+patient reports fatigue and weight loss for 2 days / nag-report ang pasyente og kakapoy ug pagkunhod sa timbang sulod sa 2 ka adlaw,Hyperthyroidism,84,112,62,36.9,75,80,18
+experiencing fatigue and weight loss for 2 days / nakasinati og kakapoy ug pagkunhod sa timbang sulod sa 2 ka adlaw,Type 2 Diabetes Mellitus,22,107,80,37.4,57,87,17
+noted fatigue and weight loss after exercise / nakit-an nga adunay kakapoy ug pagkunhod sa timbang pagkahuman og ehersisyo,Hyperthyroidism,28,133,83,36.4,54,90,16
+complains of fatigue and weight loss with nausea / nagreklamo og kakapoy ug pagkunhod sa timbang nga adunay pagkaluya sa tiyan,Type 2 Diabetes Mellitus,85,112,65,37.9,82,75,12
+with fatigue and weight loss sudden onset / adunay kakapoy ug pagkunhod sa timbang nga kalit lang,Hyperthyroidism,39,110,83,37.6,87,75,18
+patient reports fatigue and weight loss with mild chills / nag-report ang pasyente og kakapoy ug pagkunhod sa timbang nga adunay kaguol,Hyperthyroidism,11,106,66,37.4,41,81,21
+with fatigue and weight loss no vomiting / adunay kakapoy ug pagkunhod sa timbang walay pagsuka,Type 2 Diabetes Mellitus,79,148,72,37.3,95,75,12
+patient reports fatigue and weight loss at rest / nag-report ang pasyente og kakapoy ug pagkunhod sa timbang samtang nagpahulay,Hypothyroidism,46,122,77,37.6,93,87,14
+with fatigue and weight loss with mild chills / adunay kakapoy ug pagkunhod sa timbang nga adunay kaguol,Hypothyroidism,32,127,67,36.6,64,65,16
+patient reports fatigue and weight loss sudden onset / nag-report ang pasyente og kakapoy ug pagkunhod sa timbang nga kalit lang,Type 2 Diabetes Mellitus,14,107,65,37.0,79,79,19
+patient reports fatigue and weight loss for a week / nag-report ang pasyente og kakapoy ug pagkunhod sa timbang sulod sa usa ka semana,Hypothyroidism,24,118,79,37.3,58,95,20
+with fatigue and weight loss for a week / adunay kakapoy ug pagkunhod sa timbang sulod sa usa ka semana,Hyperthyroidism,71,115,79,36.2,71,75,18
+complains of fatigue and weight loss worse at night / nagreklamo og kakapoy ug pagkunhod sa timbang nga mas grabe sa gabii,Hypothyroidism,72,125,78,37.4,55,88,14
+noted fatigue and weight loss no vomiting / nakit-an nga adunay kakapoy ug pagkunhod sa timbang walay pagsuka,Type 2 Diabetes Mellitus,35,120,69,37.1,98,64,14
+noted fatigue and weight loss for 2 days / nakit-an nga adunay kakapoy ug pagkunhod sa timbang sulod sa 2 ka adlaw,Hypothyroidism,47,113,72,37.2,62,91,15
+experiencing fatigue and weight loss sudden onset / nakasinati og kakapoy ug pagkunhod sa timbang nga kalit lang,Hypothyroidism,43,131,84,37.1,100,84,17
+noted fatigue and weight loss worse at night / nakit-an nga adunay kakapoy ug pagkunhod sa timbang nga mas grabe sa gabii,Hyperthyroidism,42,124,71,36.6,95,90,17
+with fatigue and weight loss with mild chills / adunay kakapoy ug pagkunhod sa timbang nga adunay kaguol,Type 2 Diabetes Mellitus,89,150,75,36.9,97,70,17
+patient reports fatigue and weight loss no vomiting / nag-report ang pasyente og kakapoy ug pagkunhod sa timbang walay pagsuka,Hyperthyroidism,73,122,78,37.4,80,89,14
+noted fatigue and weight loss gradual onset / nakit-an nga adunay kakapoy ug pagkunhod sa timbang nga hinay-hinay,Hypothyroidism,27,119,74,37.6,62,64,18
+with fatigue and weight loss at rest / adunay kakapoy ug pagkunhod sa timbang samtang nagpahulay,Hypothyroidism,85,119,82,36.3,83,82,18
+experiencing fatigue and weight loss at rest / nakasinati og kakapoy ug pagkunhod sa timbang samtang nagpahulay,Hyperthyroidism,69,142,89,36.3,68,81,20
+patient reports fatigue and weight loss at rest / nag-report ang pasyente og kakapoy ug pagkunhod sa timbang samtang nagpahulay,Hyperthyroidism,11,93,62,36.8,34,101,25
+noted fatigue and weight loss gradual onset / nakit-an nga adunay kakapoy ug pagkunhod sa timbang nga hinay-hinay,Hyperthyroidism,87,135,90,36.4,51,76,18
+experiencing fatigue and weight loss after exercise / nakasinati og kakapoy ug pagkunhod sa timbang pagkahuman og ehersisyo,Type 2 Diabetes Mellitus,67,145,78,36.9,74,69,19
+patient reports fatigue and weight loss sudden onset / nag-report ang pasyente og kakapoy ug pagkunhod sa timbang nga kalit lang,Hypothyroidism,45,105,80,37.1,55,66,16
+patient reports fatigue and weight loss no vomiting / nag-report ang pasyente og kakapoy ug pagkunhod sa timbang walay pagsuka,Hyperthyroidism,40,115,79,37.2,105,73,20
