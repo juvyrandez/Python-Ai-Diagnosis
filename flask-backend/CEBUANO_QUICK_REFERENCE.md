@@ -14,7 +14,7 @@
 | runny nose | sip-on |
 | body aches | sakit sa lawas |
 
-### 💔 Pain Complaints
+### 💔 Pain Complaintsss
 | English | Cebuano/Bisaya |
 |---------|----------------|
 | chest pain | sakit sa dughan |
