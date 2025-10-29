@@ -250,7 +250,7 @@ Potential improvements:
 
 ## 📞 Support
 
-If you encounter any issues with Cebuano translations or AI accuracy, the system logs all predictions in `predictions_log.csv` for analysis and improvement.
+If you encounter any issues with Cebuano translations or AI accuracy, the system logs all predictions in `predictions_log.csv` for analysis and improvementtt.
 
 ---
 
