@@ -84,15 +84,20 @@ def apply_rule_based_adjustments(classes, proba, complaint, features):
     rr = float(features.get('resp_rate_cpm', 16))
     hr = float(features.get('heart_rate_bpm', 80))
 
-    has_fever = bool(re.search(r"\bfever|febrile\b", text)) or temp >= 38.0
-    has_cough = bool(re.search(r"\bcough|coughing\b", text))
-    has_sob = bool(re.search(r"\bshortness of breath|dyspnea|sob\b", text))
-    has_chest_pain = bool(re.search(r"\bchest pain|pressure|tightness\b", text))
+    has_fever = bool(re.search(r"\bfever|febrile|hilanat\b", text)) or temp >= 38.0
+    has_cough = bool(re.search(r"\bcough|coughing|ubo\b", text))
+    has_sob = bool(re.search(r"\bshortness of breath|dyspnea|sob|difficulty breathing\b", text))
+    has_chest_pain = bool(re.search(r"\bchest pain|pressure|tightness|sakit sa dughan\b", text))
     has_rash = bool(re.search(r"\brash|itch|hives|urticaria|skin\b", text))
     has_throat = bool(re.search(r"\bsore throat|pharyng|tonsillitis\b", text))
-    has_abd = bool(re.search(r"\babdominal|stomach|epigastr|abd pain|tummy\b", text))
+    has_abd = bool(re.search(r"\babdominal|stomach|epigastr|abd pain|tummy|sakit sa tiyan\b", text))
     has_urinary = bool(re.search(r"\bdysuria|urination|frequency|urgency|burning\b", text))
     has_dm_kw = bool(re.search(r"\b(diabetes|hypergly|polydipsia|polyuria|weight loss|excessive thirst)\b", text))
+    has_headache = bool(re.search(r"\bheadache|head pain|sakit sa ulo\b", text))
+    has_dizziness = bool(re.search(r"\bdizziness|dizzy|vertigo|pagkaluya\b", text))
+    has_body_ache = bool(re.search(r"\bbody ache|muscle pain|myalgia|joint pain\b", text))
+    has_runny_nose = bool(re.search(r"\brunny nose|nasal|congestion|colds\b", text))
+    
     # Duration extraction (e.g., "3 days", "2 weeks")
     dur_days = None
     m_d = re.search(r"\b(\d{1,3})\s*day[s]?\b", text)
@@ -109,6 +114,9 @@ def apply_rule_based_adjustments(classes, proba, complaint, features):
             dur_days = None
     # Rough symptom count via delimiters
     symptom_count = text.count(',') + text.count(' and ')
+    
+    # Count total words in complaint to assess specificity
+    word_count = len(text.split())
 
     # Start with original probs
     weights = [float(p) for p in proba]
@@ -118,19 +126,38 @@ def apply_rule_based_adjustments(classes, proba, complaint, features):
             if any(s.lower() in str(cls).lower() for s in label_substrs):
                 weights[i] *= factor
 
+    # CRITICAL: If complaint is too vague (few words, single symptom), penalize specific diagnoses
+    if word_count <= 3 and symptom_count == 0:
+        # Very vague complaint like "fever" or "headache" - strongly penalize specific diagnoses
+        mult(['Influenza', 'Bronchitis', 'Pneumonia', 'COVID-19'], 0.3)
+        # Boost more general/symptom-based diagnoses
+        mult(['Viral Upper Respiratory Infection', 'Fever of Unknown Origin', 'Viral Syndrome'], 1.5)
+    
+    # If ONLY fever mentioned (no other respiratory symptoms), don't jump to Influenza
+    if has_fever and not has_cough and not has_sob and not has_throat and not has_runny_nose and not has_body_ache:
+        mult(['Influenza'], 0.2)  # Strongly penalize Influenza for isolated fever
+        mult(['Viral Upper Respiratory Infection'], 1.3)  # Prefer more general URI
+    
+    # Influenza requires multiple symptoms (fever + cough + body aches OR fever + multiple respiratory)
+    if has_fever and has_cough and (has_body_ache or symptom_count >= 2):
+        mult(['Influenza'], 1.8)  # Boost Influenza when multiple symptoms present
+    elif has_fever and has_cough:
+        mult(['Influenza'], 1.2)  # Mild boost for fever + cough
+        mult(['Viral Upper Respiratory Infection', 'Bronchitis'], 1.5)  # But prefer these
+    
     # Age-based priors: child/teen
     if age < 18:
         # Strongly suppress adult diseases
-        mult(['COPD Exacerbation','Benign Prostatic Hyperplasia','Stable Angina','Acute Coronary Syndrome','Osteoarthritis','Type 2 Diabetes Mellitus','Gout'], 0.1)
-        # Up-weight pediatric infections when fever present, even if cough missing
-        if has_fever:
-            mult(['Influenza','Viral Upper Respiratory Infection','Acute Viral Pharyngitis'], 1.6)
-        # Stronger when fever + cough
-        if has_fever and has_cough:
+        mult(['COPD Exacerbation','Benign Prostatic Hyperplasia','Stable Angina','Acute Coronary Syndrome','Osteoarthritis','Type 2 Diabetes Mellitus','Gout'], 0.05)
+        # Pediatric fever with multiple symptoms
+        if has_fever and symptom_count >= 2:
+            mult(['Viral Upper Respiratory Infection','Acute Viral Pharyngitis'], 1.6)
+        # Stronger when fever + cough + other symptoms
+        if has_fever and has_cough and symptom_count >= 2:
             mult(['Influenza','Viral Upper Respiratory Infection','Community-acquired Pneumonia'], 1.8)
         # If fever without chest wall pain wording, down-weight costochondritis
         if has_fever and not has_chest_pain:
-            mult(['Costochondritis'], 0.4)
+            mult(['Costochondritis'], 0.2)
         # If pediatric fever without diabetes keywords, strongly suppress diabetes classes
         if has_fever and not has_dm_kw:
             for i, cls in enumerate(classes):

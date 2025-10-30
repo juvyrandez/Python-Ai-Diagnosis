@@ -6,7 +6,8 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.preprocessing import StandardScaler
 from sklearn.compose import ColumnTransformer
 from sklearn.pipeline import Pipeline
-from sklearn.metrics import accuracy_score
+from sklearn.model_selection import train_test_split
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 import joblib
 
 # Standard numeric features used across datasets (Celsius and metric units)
@@ -72,17 +73,49 @@ def normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
     return df[cols]
 
 
+def clean_and_deduplicate_data(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Clean data by removing duplicates and invalid entries.
+    """
+    print(f"Original dataset size: {len(df)} rows")
+    
+    # Remove exact duplicates
+    df = df.drop_duplicates()
+    print(f"After removing exact duplicates: {len(df)} rows")
+    
+    # Remove rows with missing complaint or diagnosis
+    df = df.dropna(subset=['complaint', 'diagnosis'])
+    print(f"After removing missing values: {len(df)} rows")
+    
+    # Remove rows with empty strings
+    df = df[df['complaint'].str.strip() != '']
+    df = df[df['diagnosis'].str.strip() != '']
+    print(f"After removing empty strings: {len(df)} rows")
+    
+    # Remove duplicate complaint-diagnosis pairs (keep first occurrence)
+    df = df.drop_duplicates(subset=['complaint', 'diagnosis'], keep='first')
+    print(f"After removing duplicate complaint-diagnosis pairs: {len(df)} rows")
+    
+    return df
+
+
 def load_general_dataframe() -> pd.DataFrame:
     """Prefer expanded dataset if present; otherwise fall back to base complaints.csv."""
     if os.path.exists('complaints_expanded.csv'):
         base = pd.read_csv('complaints_expanded.csv')
     else:
         base = pd.read_csv('complaints.csv')
+    
+    # Clean and deduplicate
+    base = clean_and_deduplicate_data(base)
+    
     return normalize_columns(base)
 
 
 def train_general_diagnosis_model():
+    print('\n' + '='*60)
     print('Training general diagnosis model...')
+    print('='*60)
     df = load_general_dataframe()
 
     if 'complaint' not in df.columns or 'diagnosis' not in df.columns:
@@ -91,37 +124,105 @@ def train_general_diagnosis_model():
     text_col = 'complaint'
     num_cols = STD_NUMERIC
 
+    X = df[[text_col] + num_cols]
+    y = df['diagnosis']
+    
+    # Check class distribution
+    print(f"\nClass distribution:")
+    class_counts = y.value_counts()
+    print(class_counts)
+    print(f"\nTotal unique diagnoses: {y.nunique()}")
+    
+    # Check if we can use stratified splitting (need at least 2 samples per class)
+    min_class_count = class_counts.min()
+    use_stratify = min_class_count >= 2
+    
+    if not use_stratify:
+        print(f"\nWarning: Some classes have only 1 sample. Using non-stratified split.")
+    
+    # Split data: 70% train, 15% validation, 15% test
+    X_train, X_temp, y_train, y_temp = train_test_split(
+        X, y, test_size=0.3, random_state=42, stratify=y if use_stratify else None
+    )
+    
+    # Check if temp set can be stratified
+    temp_class_counts = y_temp.value_counts()
+    use_stratify_temp = temp_class_counts.min() >= 2
+    
+    X_val, X_test, y_val, y_test = train_test_split(
+        X_temp, y_temp, test_size=0.5, random_state=42, stratify=y_temp if use_stratify_temp else None
+    )
+    
+    print(f"\nData split:")
+    print(f"  Training set: {len(X_train)} samples ({len(X_train)/len(X)*100:.1f}%)")
+    print(f"  Validation set: {len(X_val)} samples ({len(X_val)/len(X)*100:.1f}%)")
+    print(f"  Test set: {len(X_test)} samples ({len(X_test)/len(X)*100:.1f}%)")
+
     preprocessor = ColumnTransformer(
         transformers=[
-            ('text', TfidfVectorizer(max_features=1200, stop_words='english'), text_col),
+            ('text', TfidfVectorizer(max_features=1500, stop_words='english', ngram_range=(1, 2)), text_col),
             ('num', StandardScaler(), num_cols),
         ]
     )
 
     model = Pipeline([
         ('preprocessor', preprocessor),
-        ('classifier', RandomForestClassifier(n_estimators=200, random_state=42))
+        ('classifier', RandomForestClassifier(
+            n_estimators=300,
+            max_depth=20,
+            min_samples_split=5,
+            min_samples_leaf=2,
+            random_state=42,
+            n_jobs=-1
+        ))
     ])
 
-    X = df[[text_col] + num_cols]
-    y = df['diagnosis']
-
-    model.fit(X, y)
+    # Train on training set
+    print("\nTraining model...")
+    model.fit(X_train, y_train)
+    
+    # Evaluate on training set
+    y_train_pred = model.predict(X_train)
+    train_acc = accuracy_score(y_train, y_train_pred)
+    print(f"\nTraining accuracy: {train_acc:.4f} ({train_acc*100:.2f}%)")
+    
+    # Evaluate on validation set
+    y_val_pred = model.predict(X_val)
+    val_acc = accuracy_score(y_val, y_val_pred)
+    print(f"Validation accuracy: {val_acc:.4f} ({val_acc*100:.2f}%)")
+    
+    # Evaluate on test set
+    y_test_pred = model.predict(X_test)
+    test_acc = accuracy_score(y_test, y_test_pred)
+    print(f"Test accuracy: {test_acc:.4f} ({test_acc*100:.2f}%)")
+    
+    # Show classification report for test set
+    print("\nTest Set Classification Report:")
+    print(classification_report(y_test, y_test_pred, zero_division=0))
+    
+    # Save the model
     joblib.dump(model, 'diagnosis_model.pkl')
-
-    y_pred = model.predict(X)
-    acc = accuracy_score(y, y_pred)
-    print(f'General diagnosis model accuracy (train resubstitution): {acc:.2f}')
+    print("\n✅ Model saved as 'diagnosis_model.pkl'")
+    
     return model
 
 
 def train_animal_bite_category_model():
+    print('\n' + '='*60)
     print('Training animal bite CATEGORY model...')
-    if not os.path.exists('animal_bites.csv'):
-        print('animal_bites.csv not found, skipping animal bite model.')
+    print('='*60)
+    
+    # Try both file names
+    if os.path.exists('animal_bites_cebuano.csv'):
+        raw = pd.read_csv('animal_bites_cebuano.csv')
+    elif os.path.exists('animal_bites.csv'):
+        raw = pd.read_csv('animal_bites.csv')
+    else:
+        print('No animal bites dataset found, skipping animal bite model.')
         return None
-
-    raw = pd.read_csv('animal_bites.csv')
+    
+    # Clean and deduplicate
+    raw = clean_and_deduplicate_data(raw)
     df = normalize_columns(raw)
 
     # Derive category label from either explicit category column or diagnosis text
@@ -130,38 +231,110 @@ def train_animal_bite_category_model():
     elif 'diagnosis' in raw.columns:
         y = raw['diagnosis'].astype(str).str.extract(r'(Category\s*[123])', expand=False).fillna('Category 2')
     else:
-        raise ValueError('animal_bites.csv must contain either category or diagnosis column')
+        raise ValueError('animal_bites dataset must contain either category or diagnosis column')
 
     text_col = 'complaint'
     num_cols = STD_NUMERIC
 
+    X = df[[text_col] + num_cols]
+    
+    # Check class distribution
+    print(f"\nClass distribution:")
+    class_counts = y.value_counts()
+    print(class_counts)
+    print(f"\nTotal unique categories: {y.nunique()}")
+    
+    # Check if we can use stratified splitting (need at least 2 samples per class)
+    min_class_count = class_counts.min()
+    use_stratify = min_class_count >= 2
+    
+    if not use_stratify:
+        print(f"\nWarning: Some classes have only 1 sample. Using non-stratified split.")
+    
+    # Split data: 70% train, 15% validation, 15% test
+    X_train, X_temp, y_train, y_temp = train_test_split(
+        X, y, test_size=0.3, random_state=42, stratify=y if use_stratify else None
+    )
+    
+    # Check if temp set can be stratified
+    temp_class_counts = y_temp.value_counts()
+    use_stratify_temp = temp_class_counts.min() >= 2
+    
+    X_val, X_test, y_val, y_test = train_test_split(
+        X_temp, y_temp, test_size=0.5, random_state=42, stratify=y_temp if use_stratify_temp else None
+    )
+    
+    print(f"\nData split:")
+    print(f"  Training set: {len(X_train)} samples ({len(X_train)/len(X)*100:.1f}%)")
+    print(f"  Validation set: {len(X_val)} samples ({len(X_val)/len(X)*100:.1f}%)")
+    print(f"  Test set: {len(X_test)} samples ({len(X_test)/len(X)*100:.1f}%)")
+
     preprocessor = ColumnTransformer(
         transformers=[
-            ('text', TfidfVectorizer(max_features=800, stop_words='english'), text_col),
+            ('text', TfidfVectorizer(max_features=1000, stop_words='english', ngram_range=(1, 2)), text_col),
             ('num', StandardScaler(), num_cols),
         ]
     )
 
     model = Pipeline([
         ('preprocessor', preprocessor),
-        ('classifier', RandomForestClassifier(n_estimators=250, random_state=42))
+        ('classifier', RandomForestClassifier(
+            n_estimators=300,
+            max_depth=15,
+            min_samples_split=5,
+            min_samples_leaf=2,
+            random_state=42,
+            n_jobs=-1
+        ))
     ])
 
-    X = df[[text_col] + num_cols]
-    model.fit(X, y)
+    # Train on training set
+    print("\nTraining model...")
+    model.fit(X_train, y_train)
+    
+    # Evaluate on training set
+    y_train_pred = model.predict(X_train)
+    train_acc = accuracy_score(y_train, y_train_pred)
+    print(f"\nTraining accuracy: {train_acc:.4f} ({train_acc*100:.2f}%)")
+    
+    # Evaluate on validation set
+    y_val_pred = model.predict(X_val)
+    val_acc = accuracy_score(y_val, y_val_pred)
+    print(f"Validation accuracy: {val_acc:.4f} ({val_acc*100:.2f}%)")
+    
+    # Evaluate on test set
+    y_test_pred = model.predict(X_test)
+    test_acc = accuracy_score(y_test, y_test_pred)
+    print(f"Test accuracy: {test_acc:.4f} ({test_acc*100:.2f}%)")
+    
+    # Show classification report for test set
+    print("\nTest Set Classification Report:")
+    print(classification_report(y_test, y_test_pred, zero_division=0))
+    
+    # Save the model
     joblib.dump(model, 'animal_bite_category_model.pkl')
-
-    y_pred = model.predict(X)
-    acc = accuracy_score(y, y_pred)
-    print(f'Animal bite category model accuracy (train resubstitution): {acc:.2f}')
+    print("\n✅ Model saved as 'animal_bite_category_model.pkl'")
+    
     return model
 
 
 if __name__ == '__main__':
+    print("\n" + "="*60)
+    print("AI DIAGNOSIS MODEL TRAINING")
+    print("="*60)
+    
+    # Train general diagnosis model
     train_general_diagnosis_model()
+    
+    # Train animal bite category model
     animal_model = train_animal_bite_category_model()
-    print('✅ Training complete. Saved:')
-    print('- diagnosis_model.pkl')
+    
+    print("\n" + "="*60)
+    print('✅ TRAINING COMPLETE')
+    print("="*60)
+    print('Saved models:')
+    print('  - diagnosis_model.pkl')
     if animal_model is not None:
-        print('- animal_bite_category_model.pkl')
+        print('  - animal_bite_category_model.pkl')
+    print("="*60)
 

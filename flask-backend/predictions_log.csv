@@ -92,4 +92,34 @@ timestamp,complaint,age,systolic_bp,diastolic_bp,temperature_c,height_cm,weight_
 2025-09-21T19:56:24.652217,"i have a bite in the left leg by cat
 
 2025-10-28T10:17:21.259052+00:00,nagkalibanga ug sukaha ,40,180,100,37.0,51.0,12.0,12.0,Bronchitis,0.1000,Influenza,0.0950,Cellulitis,0.0750
-2025-10-29T00:00:41.693507+00:00,sakit akong ulo,40,120,80,37.0,70,80,16,Hypertensive Urgency,0.1850,Rheumatoid Arthritis,0.1000,Tension Headache,0.0700
+2025-10-29T23:25:36.376825+00:00,sakit ang tiyan,35,120,80,35.0,56.0,45.0,44.0,Acute Viral Pharyngitis,0.1050,Rheumatoid Arthritis,0.0900,Costochondritis,0.0850
+2025-10-29T23:25:54.288942+00:00,patient have headache,35,120,80,35.0,56.0,45.0,44.0,Hypertensive Urgency,0.0950,Cellulitis,0.0850,Community-acquired Pneumonia,0.0800
+2025-10-29T23:27:11.954656+00:00,patient have headache,31,120,80,35.0,56.0,32.0,33.0,Hypertensive Urgency,0.0950,Cellulitis,0.0850,Community-acquired Pneumonia,0.0800
+2025-10-30T00:54:12.138805+00:00,sakit ulo,21,120,80,37.0,70,80,16,Hypertensive Urgency,0.1900,Rheumatoid Arthritis,0.1050,Tension Headache,0.0650
+2025-10-30T02:23:43.398808+00:00,patient have fever and cough 3 days,31,120,80,35.0,56.0,34.0,34.0,Influenza,0.3466,Viral Upper Respiratory Infection,0.1696,Bronchitis,0.1065
+2025-10-30T02:47:08.712991+00:00,patient bite in the left leg by a dog,31,120,80,32.0,56.0,32.0,32.0,Animal Bite Category 3,0.9840,Cellulitis,0.1000,Community-acquired Pneumonia,0.0950
+2025-10-30T02:47:47.643505+00:00,hehe,31,120,80,34.0,34.0,34.0,34.0,Cellulitis,0.1250,Community-acquired Pneumonia,0.0850,COPD Exacerbation,0.0750
+2025-10-30T03:11:37.050851+00:00,patient have cough,31,120,80,36.0,56.0,34.0,32.0,Influenza,0.1550,Bronchitis,0.1050,Community-acquired Pneumonia,0.0800
+2025-10-30T03:27:10.082399+00:00,have fever,35,120,80,36.0,54.0,32.0,34.0,Influenza,0.2079,Viral Upper Respiratory Infection,0.1175,Bronchitis,0.1055
+2025-10-30T03:36:44.082278+00:00,headache ,19,120,80,35.0,56.0,32.0,32.0,Hypertensive Urgency,0.1250,Cellulitis,0.1050,Community-acquired Pneumonia,0.0750
+2025-10-30T03:44:33.361792+00:00,feverr,35,120,80,36.0,45.0,32.0,34.0,Acute Viral Pharyngitis,0.1259,Community-acquired Pneumonia,0.1050,Influenza,0.1050
+2025-10-30T03:44:37.753276+00:00,fever,35,120,80,36.0,45.0,32.0,34.0,Influenza,0.2087,Viral Upper Respiratory Infection,0.1179,Bronchitis,0.1008
+2025-10-30T03:56:18.244213+00:00,have cough,47,120,80,35.0,56.0,33.0,34.0,Influenza,0.1450,Bronchitis,0.1150,Cellulitis,0.0800
+2025-10-30T03:57:34.808498+00:00,have headache and fever,22,120,80,35.0,45.0,32.0,34.0,Influenza,0.1805,Hypertensive Urgency,0.1103,Viral Upper Respiratory Infection,0.1083
+2025-10-30T07:39:10.996634+00:00,patient have headache,35,120,80,36.0,45.0,32.0,34.0,Cellulitis,0.0950,Hypertensive Urgency,0.0950,Community-acquired Pneumonia,0.0800
+2025-10-30T07:39:22.685269+00:00,patient have fever,35,120,80,36.0,45.0,32.0,34.0,Influenza,0.2159,Viral Upper Respiratory Infection,0.1169,Bronchitis,0.0950
+2025-10-30T20:09:31.208826+00:00,patient have fever,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.3837,Acute Viral Pharyngitis,0.0959,Rheumatoid Arthritis,0.0666
+2025-10-30T20:09:34.303610+00:00,patient have fever,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.3837,Acute Viral Pharyngitis,0.0959,Rheumatoid Arthritis,0.0666
+2025-10-30T20:09:40.260511+00:00,patient have fever,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.3837,Acute Viral Pharyngitis,0.0959,Rheumatoid Arthritis,0.0666
+2025-10-30T20:09:40.905705+00:00,patient have fever,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.3837,Acute Viral Pharyngitis,0.0959,Rheumatoid Arthritis,0.0666
+2025-10-30T20:09:47.435237+00:00,fever,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.3393,Acute Viral Pharyngitis,0.1212,Rheumatoid Arthritis,0.0741
+2025-10-30T20:09:48.339744+00:00,fever,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.3393,Acute Viral Pharyngitis,0.1212,Rheumatoid Arthritis,0.0741
+2025-10-30T20:17:13.502345+00:00,sakit ang ulo gi ubo og sipon,21,120,80,37.0,70,80,16,Hypertensive Urgency,0.1400,Influenza,0.1050,Rheumatoid Arthritis,0.0850
+2025-10-30T20:17:33.272181+00:00,patient have fever,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.3837,Acute Viral Pharyngitis,0.0959,Rheumatoid Arthritis,0.0666
+2025-10-30T20:17:40.774046+00:00,fever,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.3393,Acute Viral Pharyngitis,0.1212,Rheumatoid Arthritis,0.0741
+2025-10-30T20:17:42.545349+00:00,fever,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.3393,Acute Viral Pharyngitis,0.1212,Rheumatoid Arthritis,0.0741
+2025-10-30T20:17:43.421565+00:00,fever,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.3393,Acute Viral Pharyngitis,0.1212,Rheumatoid Arthritis,0.0741
+2025-10-30T20:21:10.804357+00:00,gihilatantan,21,120,80,37.0,70,80,16,Community-acquired Pneumonia,0.1050,Allergic Dermatitis,0.0950,Cellulitis,0.0950
+2025-10-30T20:21:18.313199+00:00,gihilatantaan,21,120,80,37.0,70,80,16,Community-acquired Pneumonia,0.1050,Allergic Dermatitis,0.0950,Cellulitis,0.0950
+2025-10-30T20:21:23.976719+00:00,fever,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.3393,Acute Viral Pharyngitis,0.1212,Rheumatoid Arthritis,0.0741
+2025-10-30T20:23:02.141246+00:00,hilanat,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.1819,Rheumatoid Arthritis,0.1095,Influenza,0.1091
