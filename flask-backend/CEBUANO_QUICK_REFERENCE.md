@@ -25,7 +25,7 @@
 | back pain | sakit sa likod |
 | toothache | sakit sa ngipon |
 
-### 🩺 Other Symptoms
+### 🩺 Other Symptomsss
 | English | Cebuano/Bisaya |
 |---------|----------------|
 | dizziness | pagkaluya / hubog |
