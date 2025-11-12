@@ -45,6 +45,85 @@ DEFAULTS = {
     'resp_rate_cpm': 16,
 }
 
+# Diagnosis explanations dictionary
+DIAGNOSIS_EXPLANATIONS = {
+    'Influenza': 'A viral respiratory infection causing fever, cough, body aches, and fatigue. Usually resolves in 7-10 days with rest and supportive care.',
+    'Bronchitis': 'Inflammation of the bronchial tubes causing persistent cough, mucus production, and chest discomfort. May be viral or bacterial in origin.',
+    'Viral Upper Respiratory Infection': 'Common cold or viral infection affecting the nose, throat, and upper airways. Symptoms include runny nose, sore throat, and mild fever.',
+    'Pneumonia': 'Infection of the lungs causing fever, cough with phlegm, chest pain, and difficulty breathing. Requires prompt medical treatment.',
+    'Acute Coronary Syndrome': 'Serious heart condition including heart attack or unstable angina. Requires immediate emergency medical care.',
+    'Costochondritis': 'Inflammation of the cartilage connecting ribs to breastbone, causing sharp chest pain that worsens with movement or breathing.',
+    'Hypertension': 'High blood pressure condition that increases risk of heart disease and stroke. Often managed with lifestyle changes and medication.',
+    'Diabetes': 'Metabolic disorder characterized by high blood sugar levels. Requires ongoing management through diet, exercise, and possibly medication.',
+    'Gastroenteritis': 'Inflammation of stomach and intestines causing nausea, vomiting, diarrhea, and abdominal pain. Often viral or bacterial in origin.',
+    'Urinary Tract Infection': 'Bacterial infection of the urinary system causing painful urination, frequent urination, and pelvic pain.',
+    'Migraine': 'Severe headache disorder causing intense throbbing pain, often with nausea, vomiting, and sensitivity to light and sound.',
+    'Allergic Reaction': 'Immune system response to allergens causing symptoms like rash, itching, swelling, or difficulty breathing.',
+    'Asthma': 'Chronic respiratory condition causing wheezing, shortness of breath, chest tightness, and coughing attacks.',
+    'Anxiety Disorder': 'Mental health condition causing excessive worry, fear, and physical symptoms like rapid heartbeat and sweating.',
+    'Dermatitis': 'Skin inflammation causing redness, itching, and rash. May be caused by allergies, irritants, or underlying conditions.',
+    'Arthritis': 'Joint inflammation causing pain, stiffness, and reduced range of motion. May be due to wear and tear or autoimmune causes.',
+    'Sinusitis': 'Inflammation of sinus cavities causing facial pain, nasal congestion, and thick nasal discharge.',
+    'Otitis Media': 'Middle ear infection causing ear pain, fever, and possible hearing difficulties. Common in children.',
+    'Conjunctivitis': 'Eye infection or inflammation causing redness, itching, and discharge. May be viral, bacterial, or allergic.',
+    'Tonsillitis': 'Inflammation of the tonsils causing sore throat, difficulty swallowing, and swollen lymph nodes.',
+    'Animal Bite Category I': 'Minor animal contact with intact skin. Low rabies risk. Clean wound thoroughly and monitor for signs of infection.',
+    'Animal Bite Category II': 'Nibbling or minor scratches with bleeding. Moderate rabies risk. Requires wound cleaning and rabies vaccination series.',
+    'Animal Bite Category III': 'Deep bite wounds or scratches. High rabies risk. Requires immediate wound cleaning, rabies vaccination, and immunoglobulin.',
+    'Fracture': 'Broken bone requiring immediate medical attention, immobilization, and possible surgical intervention.',
+    'Sprain': 'Ligament injury causing pain, swelling, and limited mobility. Treated with rest, ice, compression, and elevation.',
+    'Dehydration': 'Fluid loss causing weakness, dizziness, and dry mouth. Requires fluid replacement and monitoring.',
+    'Food Poisoning': 'Illness from contaminated food causing nausea, vomiting, diarrhea, and abdominal cramps.',
+    'Heat Exhaustion': 'Heat-related illness causing heavy sweating, weakness, and nausea. Requires cooling and fluid replacement.',
+    'Malnutrition': 'Poor nutrition causing weakness, weight loss, and increased susceptibility to infections.',
+    'Anemia': 'Low red blood cell count causing fatigue, weakness, and pale skin. May require dietary changes or supplements.',
+    
+    # Additional common diagnoses from training data
+    'Upper Respiratory Tract Infection': 'Viral or bacterial infection of the nose, throat, and upper airways causing congestion, sore throat, and mild fever.',
+    'Common Cold': 'Viral infection causing runny nose, sneezing, sore throat, and mild fatigue. Usually resolves within 7-10 days.',
+    'Fever': 'Elevated body temperature often indicating infection or illness. Monitor closely and treat underlying cause.',
+    'Cough': 'Reflex action to clear airways. May be dry or productive, acute or chronic. Investigate underlying cause.',
+    'Headache': 'Pain in head or neck region. May be tension-type, migraine, or secondary to other conditions.',
+    'Chest Pain': 'Discomfort in chest area. Can range from minor muscle strain to serious cardiac conditions. Requires evaluation.',
+    'Abdominal Pain': 'Stomach or belly pain with various causes including infection, inflammation, or digestive issues.',
+    'Back Pain': 'Pain in back muscles, bones, or nerves. Often due to strain, injury, or poor posture.',
+    'Joint Pain': 'Discomfort in joints due to arthritis, injury, or inflammation. May affect mobility.',
+    'Muscle Pain': 'Soreness or aching in muscles due to overuse, strain, or viral infections.',
+    'Fatigue': 'Extreme tiredness or lack of energy. May indicate underlying medical condition or lifestyle factors.',
+    'Dizziness': 'Feeling of lightheadedness or unsteadiness. Various causes including inner ear problems or blood pressure changes.',
+    'Nausea': 'Feeling of sickness with urge to vomit. Common with infections, medications, or digestive issues.',
+    'Vomiting': 'Forceful expulsion of stomach contents. May indicate infection, food poisoning, or other conditions.',
+    'Diarrhea': 'Loose or watery stools occurring frequently. Often due to infection, food intolerance, or medications.',
+    'Constipation': 'Difficulty passing stools or infrequent bowel movements. May be due to diet, medications, or medical conditions.',
+    'Rash': 'Skin irritation or eruption. Can be allergic, infectious, or due to underlying skin conditions.',
+    'Skin Infection': 'Bacterial, viral, or fungal infection of the skin causing redness, swelling, or discharge.',
+    'Eye Infection': 'Infection of the eye or eyelid causing redness, discharge, and discomfort.',
+    'Ear Infection': 'Infection of the ear canal or middle ear causing pain, discharge, and possible hearing loss.',
+    'Sore Throat': 'Pain or irritation in the throat, often due to viral or bacterial infection.',
+    'Runny Nose': 'Nasal discharge due to cold, allergies, or sinus infection.',
+    'Nasal Congestion': 'Blocked or stuffy nose due to swelling of nasal tissues.',
+    'Shortness of Breath': 'Difficulty breathing or feeling breathless. May indicate respiratory or cardiac issues.',
+    'Wheezing': 'High-pitched whistling sound when breathing, often associated with asthma or respiratory conditions.',
+    'Palpitations': 'Awareness of heartbeat or irregular heart rhythm. May be normal or indicate heart condition.',
+    'Swelling': 'Enlargement of body parts due to fluid retention, infection, or injury.',
+    'Wound': 'Break in skin or tissue requiring cleaning and proper care to prevent infection.',
+    'Burn': 'Injury to skin or tissue from heat, chemicals, or radiation. Severity varies from minor to severe.',
+    'Cut': 'Sharp injury to skin requiring cleaning and possible suturing depending on depth and location.',
+    'Bruise': 'Discoloration of skin due to bleeding under the surface from injury or trauma.',
+    'Insect Bite': 'Reaction to insect bite causing redness, swelling, and itching. Usually minor but monitor for allergic reactions.',
+    'Food Allergy': 'Immune reaction to specific foods causing symptoms from mild rash to severe anaphylaxis.',
+    'Drug Allergy': 'Adverse reaction to medications causing rash, swelling, or more serious symptoms.',
+    'Seasonal Allergies': 'Allergic reaction to pollen or environmental allergens causing sneezing, runny nose, and itchy eyes.',
+    'Stress': 'Physical or emotional tension that can cause various symptoms including headaches, fatigue, and digestive issues.',
+    'Sleep Disorder': 'Problems with sleep quality or quantity affecting daily functioning and health.',
+    'Nutritional Deficiency': 'Lack of essential nutrients causing various symptoms depending on the deficient nutrient.',
+    'Dehydration': 'Loss of body fluids causing weakness, dizziness, and dry mouth. Requires fluid replacement.',
+    'Heat Stroke': 'Severe heat-related illness with high body temperature and altered mental state. Medical emergency.',
+    'Hypothermia': 'Dangerously low body temperature requiring immediate warming and medical attention.',
+    'Poisoning': 'Exposure to toxic substances causing various symptoms. May require immediate medical intervention.',
+    'Overdose': 'Taking excessive amount of medication or substance causing toxic effects. Requires immediate medical care.'
+}
+
 VITALS_PATTERN = {
     'bp': re.compile(r"\b(?:bp|blood pressure)\s*(\d{2,3})\s*[\/\\-]\s*(\d{2,3})\b", re.I),
     'temp': re.compile(r"\b(?:temp|temperature)\s*(\d{2}(?:\.\d)?)\s*(?:c|celsius)?\b", re.I),
@@ -494,6 +573,13 @@ def predict():
 
     # Compatibility fields: top1 prediction and confidence, plus vitals analysis
     top1_diagnosis, top1_prob = ranked[0]
+    
+    # Debug: Print diagnosis names to see what we're getting
+    print("DEBUG: Diagnosis names from model:")
+    for i, (d, p) in enumerate(ranked):
+        print(f"  {i+1}. '{d}' (repr: {repr(d)})")
+        print(f"     Has explanation: {d.strip() in DIAGNOSIS_EXPLANATIONS}")
+    
     return jsonify({
         'prediction': top1_diagnosis,
         'confidence': float(top1_prob),
@@ -502,7 +588,11 @@ def predict():
             features['temperature_c'], features['heart_rate_bpm'], features['resp_rate_cpm']
         ),
         'top3': [
-            {'diagnosis': d, 'probability': float(p)} for d, p in ranked
+            {
+                'diagnosis': d, 
+                'probability': float(p),
+                'explanation': DIAGNOSIS_EXPLANATIONS.get(d.strip(), f'Medical condition: {d}. Please consult with a healthcare provider for proper evaluation, diagnosis, and treatment recommendations.')
+            } for d, p in ranked
         ]
     })
 

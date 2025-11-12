@@ -123,3 +123,29 @@ timestamp,complaint,age,systolic_bp,diastolic_bp,temperature_c,height_cm,weight_
 2025-10-30T20:21:18.313199+00:00,gihilatantaan,21,120,80,37.0,70,80,16,Community-acquired Pneumonia,0.1050,Allergic Dermatitis,0.0950,Cellulitis,0.0950
 2025-10-30T20:21:23.976719+00:00,fever,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.3393,Acute Viral Pharyngitis,0.1212,Rheumatoid Arthritis,0.0741
 2025-10-30T20:23:02.141246+00:00,hilanat,21,120,80,37.0,70,80,16,Viral Upper Respiratory Infection,0.1819,Rheumatoid Arthritis,0.1095,Influenza,0.1091
+2025-11-07T21:43:33.678094+00:00,patient have headache 3 days,21,120,80,36.0,45.0,57.0,13.0,Hypertensive Urgency,0.0677,Cellulitis,0.0623,Viral Upper Respiratory Infection,0.0621
+2025-11-07T21:44:31.940304+00:00,patient have fever and cough,23,120,80,36.0,56.0,32.0,21.0,Influenza,0.3276,Viral Upper Respiratory Infection,0.2616,Bronchitis,0.1257
+2025-11-07T22:03:29.527974+00:00,sakit ang ulo og gi ubo og sipon,23,120,80,35.0,56.0,32.0,21.0,Influenza,0.0954,Hypertensive Urgency,0.0911,Viral Upper Respiratory Infection,0.0600
+2025-11-10T04:25:30.553138+00:00,"patient have fever,ubo og sipon ",28,120,80,36.0,45.0,67.0,14.0,Influenza,0.2833,Viral Upper Respiratory Infection,0.2300,Bronchitis,0.0972
+2025-11-10T04:28:49.582422+00:00,patient have headache,22,120,80,36.0,43.0,65.0,12.0,Viral Upper Respiratory Infection,0.0978,Hypertensive Urgency,0.0700,Cellulitis,0.0618
+2025-11-10T04:35:41.216617+00:00,patient have headache,28,120,80,36.0,45.0,67.0,18.0,Viral Upper Respiratory Infection,0.0980,Hypertensive Urgency,0.0647,COPD Exacerbation,0.0592
+2025-11-10T04:36:48.908762+00:00,patient have cough 3 days ,26,120,80,36.0,45.0,65.0,13.0,Influenza,0.1203,Viral Upper Respiratory Infection,0.0987,Bronchitis,0.0537
+2025-11-10T05:05:06.922559+00:00,patient have headache,28,120,80,36.0,45.0,63.0,17.0,Viral Upper Respiratory Infection,0.0980,Hypertensive Urgency,0.0673,Cellulitis,0.0622
+2025-11-10T05:06:18.398773+00:00,patient have fever and cough,26,120,80,35.0,45.0,67.0,14.0,Influenza,0.3268,Viral Upper Respiratory Infection,0.2714,Bronchitis,0.1200
+2025-11-10T05:16:08.073735+00:00,nagkalibanga ug sukaha ,22,180,100,36.0,51.0,12.0,12.0,Viral Upper Respiratory Infection,0.1434,COPD Exacerbation,0.0596,Cellulitis,0.0546
+2025-11-11T21:51:32.869305+00:00,patient have headache,22,120,80,36.0,56.0,23.0,67.0,Viral Upper Respiratory Infection,0.0979,Hypertensive Urgency,0.0629,Tension Headache,0.0593
+2025-11-11T22:08:41.791411+00:00,"patient have fever,ubo og sipon",23,120,80,35.0,56.0,32.0,21.0,Influenza,0.2789,Viral Upper Respiratory Infection,0.2257,Bronchitis,0.1024
+2025-11-12T01:02:37.456815+00:00,"patient have fever, gi ubo og sipon",21,120,80,36.0,67.0,56.0,14.0,Influenza,0.2775,Viral Upper Respiratory Infection,0.2265,Bronchitis,0.1038
+2025-11-12T01:05:33.533858+00:00,patient have headache,21,120,80,36.0,56.0,67.0,13.0,Viral Upper Respiratory Infection,0.0979,Hypertensive Urgency,0.0695,Cellulitis,0.0619
+2025-11-12T01:06:14.538997+00:00,patient have fever and headache for 3 days,22,120,80,36.0,67.0,34.0,21.0,Viral Upper Respiratory Infection,0.2167,Acute Viral Pharyngitis,0.0790,Hypertensive Urgency,0.0621
+2025-11-12T01:12:14.642951+00:00,patient have headache and fever ,23,120,80,36.0,56.0,32.0,21.0,Viral Upper Respiratory Infection,0.2234,Acute Viral Pharyngitis,0.0789,Hypertensive Urgency,0.0622
+2025-11-12T01:13:15.050328+00:00,patient have fever ubo og sipon,21,120,80,36.0,56.0,56.0,56.0,Influenza,0.2749,Viral Upper Respiratory Infection,0.2225,Bronchitis,0.1009
+2025-11-12T01:14:58.289845+00:00,patient have fever ubo og sipon,21,120,80,36.0,56.0,56.0,56.0,Influenza,0.2749,Viral Upper Respiratory Infection,0.2225,Bronchitis,0.1009
+2025-11-12T01:15:35.111803+00:00,patient have fever ubo og sipon,21,120,80,36.0,56.0,56.0,56.0,Influenza,0.2749,Viral Upper Respiratory Infection,0.2225,Bronchitis,0.1009
+2025-11-12T01:17:32.954009+00:00,patient have fever ubo og sipon,21,120,80,36.0,56.0,56.0,56.0,Influenza,0.2749,Viral Upper Respiratory Infection,0.2225,Bronchitis,0.1009
+2025-11-12T01:18:49.999794+00:00,patient have headache and fever ubo og sipon,21,120,80,36.0,56.0,67.0,13.0,Influenza,0.2619,Viral Upper Respiratory Infection,0.2101,Bronchitis,0.0916
+2025-11-12T01:20:48.378266+00:00,patient have headache and fever ubo og sipon,21,120,80,36.0,56.0,67.0,13.0,Influenza,0.2619,Viral Upper Respiratory Infection,0.2101,Bronchitis,0.0916
+2025-11-12T01:21:13.919649+00:00,patient have headache and fever ubo og sipon,21,120,80,36.0,56.0,67.0,13.0,Influenza,0.2619,Viral Upper Respiratory Infection,0.2101,Bronchitis,0.0916
+2025-11-12T01:21:25.979122+00:00,bite by a dog,21,120,80,36.0,56.0,67.0,13.0,Animal Bite Category 3,0.9813,Viral Upper Respiratory Infection,0.0724,Cellulitis,0.0628
+2025-11-12T01:25:27.878198+00:00,patient have fever and headache for 3 days,22,120,80,36.0,67.0,34.0,21.0,Viral Upper Respiratory Infection,0.2167,Acute Viral Pharyngitis,0.0790,Hypertensive Urgency,0.0621
+2025-11-12T01:33:49.307127+00:00,patient have fever and headache for 3 days,22,120,80,36.0,67.0,34.0,21.0,Viral Upper Respiratory Infection,0.2167,Acute Viral Pharyngitis,0.0790,Hypertensive Urgency,0.0621
